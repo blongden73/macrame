@@ -30,9 +30,9 @@ collections: # A list of collections the CMS should be able to edit
         collapsed: true
         fields:
         - {label: "Section", name: "section", widget: "markdown", required: false}
-        - {label: "Section", name: "section", widget: "markdown", required: false}
-        - {label: "Section", name: "section", widget: "markdown", required: false}
-        - {label: "Section", name: "section", widget: "markdown", required: false}
+        - {label: "Section2", name: "section2", widget: "markdown", required: false}
+        - {label: "Section3", name: "section3", widget: "markdown", required: false}
+        - {label: "Section4", name: "section4", widget: "markdown", required: false}
         - label: "Clients"
           name: "clients"
           widget: "object"
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Page"
     folder: "pages"
     sort: "title:asc"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}

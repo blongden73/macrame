@@ -1,3 +1,10 @@
+$m-black:#121212;
+$m-red:#FF5C5A;
+$m-orange:#FF7F00;
+$m-yellow:#FFE200;
+$m-aqua:#59E4C5;
+$m-blue:#5EA1FF;
+
 // site colours
 $text-color: rgb(40,40,40);
 $text-color-negative: white;
@@ -9,6 +16,8 @@ $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
 
 // typographic defaults
+$base-size: 16px;
+$base-line: calc(#{$base-line} * 1.25);
 $base-font: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
