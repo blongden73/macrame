@@ -22,7 +22,7 @@ sections:
 
     > \-On Childhood
 date: 2018-07-06T12:00:00.000Z
-title: "The Wise Man who ran way from man men "
+title: Martin Graziano • Art Director
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
   back to the roots guy looking for peace of mind.
 categories: misc
