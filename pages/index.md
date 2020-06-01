@@ -1,12 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Meet
+subtitle: The talents
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify
-  Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive CSS Grid
-  layout, sample pages and posts, and a continuous deployment workflow.
+intro_paragraph: We look back and celebrate the talent that allowed us to become
+  a company that we are today.
 ---
