@@ -19,16 +19,27 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Name", name: "name", widget: "string", tagname: "h1"}
+      - {label: "SubName", name: "subname", widget: "string", tagname: "h1"}
       - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
-      - label: "Author"
-        name: "author"
-        widget: "select"
-        options:
-          - { label: "Dan Urbanowicz", value: "dan_urbanowicz" }
-          - { label: "John Doe", value: "john_doe" }
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Sections"
+        name: "sections"
+        widget: "object"
+        collapsed: true
+        fields:
+        - {label: "Section", name: "section", widget: "markdown", required: false}
+        - label: "Clients"
+          name: "clients"
+          widget: "object"
+          collapsed: true
+          fields:
+          - {label: "Client", name: "client", widget: "image", required: false}
+      - {label: "Working", name: "working", widget: "string", tagname: "h3"}
+      - {label: "Teaching", name: "teaching", widget: "markdown", tagname: "h3"}
+      - {label: "Awards", name: "awards", widget: "markdown", tagname: "h3"}
+      - {label: "Website", name: "website", widget: "string", tagname: "h3"}
+      - {label: "Instagram", name: "imstagram", widget: "string", tagname: "h3"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
   - name: "page"
