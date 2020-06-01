@@ -81,4 +81,21 @@ sections:
     \
 
     **Maybe that perfect understanding of new generations** is what made him enjoyed so much a specific project with Macramé: the illustrations for a novel by Federico Ceniti and Leonardo Bonucci. A great story to fight bullying while searching for true values.
+  section5: >-
+    > "Being able to work and meet amazing people"
+
+    >
+
+    > \-On Macrame network
+
+
+    **Talking about Macramé,** the question now would be, how a football fan who teaches university studies and creates top of the class illustration and design work started collaborating with Macramé?\
+
+    **The answer is more or less the same one as in all other Macramé collaborators network cases.** He worked with a guy, who worked with a guy. They became friends and they recruited him. A story we can see repeats itself on most of the talented collaborators we could see here.\
+
+    \
+
+    A story of passion for doing awesome work and sharing values. That’s the story of this goalkeeper with skilful hands.\
+
+    That’s the story of Martin Laksman.
 ---
