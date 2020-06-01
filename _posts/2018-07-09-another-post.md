@@ -1,6 +1,6 @@
 ---
 layout: post
-subname: who run away from mad men
+subname: who ran away from mad men
 author: john_doe
 name: The Wise Man
 sections:
@@ -22,7 +22,7 @@ sections:
 
     > \-On Childhood
 date: 2018-07-06T12:00:00.000Z
-title: Another post
+title: "The Wise Man who ran way from man men "
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
   back to the roots guy looking for peace of mind.
 categories: misc
