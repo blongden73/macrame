@@ -85,4 +85,36 @@ sections:
     \
 
     **We can agree or disagree**, but companies like Apple, Google, Netflix and Spotify doing so is definitely and interesting proof to her point.
+  section4: >-
+    > "Managing ideas from Argentina while producing in Europe. So fun and
+    challenging"
+
+    >
+
+    > \- On Macramé Network
+
+
+    **But she’s not only a letter fan. She’s also a devoted teacher.**\
+
+    Both to her post-graduate students, her previous students at ​Universidad de Buenos Aires and also the people she works with.\
+
+    \
+
+    **And that shaped her working network.**\
+
+    “I mostly work with students and former students of mine. That’s my trusted network”.\
+
+    Yes, she loves teaching. Even if it’s not a class.\
+
+    \
+
+    **That’s what she loves the most about working with Macramé.** ​There’s a lot of people involved on every single project and you get to learn a lot, and teach a lot to your pairs.\
+
+    \
+
+    **​And that was something she could see working** on the identity design for Pizzería Al-4. On which she (and the team) had to think the whole project from scratch. Concepts, ideas, deliverables, etc. With absolute freedom to come up with innovative ideas, from the menu to the card holder and other assets.\
+
+    \
+
+    “The most difficult part was managing ideas, tests and drafts from Argentina while producing in Europe. It was so fun and challenging.”
 ---
