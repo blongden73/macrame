@@ -20,11 +20,11 @@ sections:
 
     \
 
-    That’s his main strength. He has not only the designer tools. He’s well trained into the ad world. And that perfect mix is what makes him different. What makes him create powerful, full-of-content creative assets.\
+    **That’s his main strength**. He has not only the designer tools. He’s well trained into the ad world. And that perfect mix is what makes him different. What makes him create powerful, full-of-content creative assets.\
 
     \
 
-    That’s why he can solve different briefings, from branding to illustration, editorial design or even a campaign. That’s why he can work for such a wide variety of brands such as Orbis, Dermaglos, Samsung or Disney Latin America.
+    **That’s why he can solve different briefings**, from branding to illustration, editorial design or even a campaign. That’s why he can work for such a wide variety of brands such as Orbis, Dermaglos, Samsung or Disney Latin America.
 date: 2018-07-06T12:00:00.000Z
 title: Martin Graziano • Art Director
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
