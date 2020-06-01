@@ -29,6 +29,9 @@ collections: # A list of collections the CMS should be able to edit
         collapsed: true
         fields:
         - {label: "Section", name: "section", widget: "markdown", required: false}
+        - {label: "Section", name: "section", widget: "markdown", required: false}
+        - {label: "Section", name: "section", widget: "markdown", required: false}
+        - {label: "Section", name: "section", widget: "markdown", required: false}
         - label: "Clients"
           name: "clients"
           widget: "object"
@@ -40,6 +43,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Awards", name: "awards", widget: "markdown", tagname: "h3"}
       - {label: "Website", name: "website", widget: "string", tagname: "h3"}
       - {label: "Instagram", name: "imstagram", widget: "string", tagname: "h3"}
+      - {label: "Footer", name: "footer", widget: "markdown", tagname: "h2"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
   - name: "page"
