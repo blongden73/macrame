@@ -41,6 +41,23 @@ sections:
     \
 
     **That’s maybe why he now lives in Galicia, Spain, from where his grandparent originally was.** He moved there by chance. But he found there the peace of mind he needed to be the best graphic designer he could be. The madness of Buenos Aires advertising and design environment was way gone. Peaceful Galicia was now his real home.
+  section2: >-
+    > If I want to move forward I have to study
+
+    >
+
+    > \-On Career
+
+
+    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realized: ​“If I want to move forward I have to study.”\
+
+    \
+
+    **He graduated from the Graphic Design Career** at Universidad de Buenos Aires and then studied the Art Direction Career at the Asociación Argentina de Agencias de Publicidad.\
+
+    \
+
+    And that went quite well.
 date: 2018-07-06T12:00:00.000Z
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
