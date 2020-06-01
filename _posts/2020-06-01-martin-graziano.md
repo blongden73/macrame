@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Martin Graziano • Art Director
 subname: who ran away from mad men
 author: john_doe
+title: Martin Graziano • Art Director
 name: The Wise Man
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
   back to the roots guy looking for peace of mind.
@@ -106,6 +106,7 @@ sections:
 
     **Maybe that’s the top skill of this wise man** who escaped from the Mad Men world to work from the peace of his grandfather’s homeland.
 date: 2018-07-06T12:00:00.000Z
+illustration: /assets/img/uploads/goalie.png
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
 footer: |-
