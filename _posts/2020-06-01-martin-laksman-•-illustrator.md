@@ -31,5 +31,25 @@ sections:
     \
 
     **We’ll never know that for sure.** But what we do know is that since his early years he enjoyed drawing. And playing football of course. But in his own words: “All the memories I have are of me drawing stuff”.
-  section2: '"All the memories I have are of me drawing stuff"'
+  section2: >-
+    > "All the memories I have are of me drawing stuff"
+
+    >
+
+    > \-On Illustration
+
+
+    **And that’s a lot to say for a guy who started a career in illustration and graphic design many years ago** and is now an awarded and showcased artist working for Coca-Cola, Gatorade, Time Inc., Under Armour, ESPN, Sports Illustrated and the Bundesliga, among others.\
+
+    \
+
+    **When asked about his very first memories** of his developing talent he can highlight the very first comic book he created and a portrait of his father. Which he illustrated at the age of ten. What was his source of inspiration at that time, he does not remember, but what he does remember is the voice of his mother telling him to draw, or as he remembers: “You have to let kids, be.”\
+
+    \
+
+    **No matter how good you are**, finding inspiration is quite tricky for many creatives. Martin or Laks -for his friends and colleagues- enjoys music, movies and TV shows and the most important of all: traveling.\
+
+    \
+
+    **He make time for traveling** and he does that not only to escape from the daily routine, but also to boost his hunger for ideas, art and new trends. Flying to different locations around the world allows him to attend congresses, visit museums and even have a 30-minutes coffee talk with someone he admires.
 ---
