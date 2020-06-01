@@ -3,6 +3,7 @@ layout: post
 title: Fernanda Cozzi • Type designer
 name: "The Dreamer Girl "
 subname: who feel in love with letters
+illustration: /assets/img/uploads/dreamer.png
 intro_paragraph: The story of **Fer Cozzi**, the figure-skater-dreamer who who
   wrote her story with her own fonts.
 sections:
