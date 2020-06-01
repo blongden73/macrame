@@ -50,8 +50,11 @@ nav {
     // flexbox is better than grid for distributing an unknown qty of children
     display: flex;
     flex-direction: column;
-    
+
     li {
+      @include font-size($size-three, 1.25);
+      @include button(transparent, #fff);
+      font-family: $recoleta;
       margin-right: 2rem;
       display: inline-block;
       @media screen and (min-width: $screen-sm-min) {

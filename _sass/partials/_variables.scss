@@ -16,7 +16,11 @@ $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
 
 // typographic defaults
-$base-size: 16px;
+$base-size: 16px; // *1.25 for base line
+$size-one: 52px;
+$size-two: 32px;
+$size-three: 25px;
+$size-four: 20px;
 $base-font: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
