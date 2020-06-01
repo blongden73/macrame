@@ -15,7 +15,8 @@ body {
 header {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: spacing(1);
 }
 
 // logo, is a grid item
@@ -50,8 +51,11 @@ nav {
   position: fixed;
   top: 0;
   padding: spacing(1);
-  margin-bottom: spacing(1);
   display: none;
+
+  &.open {
+    display: block;
+  }
 
   ul {
     // flexbox is better than grid for distributing an unknown qty of children

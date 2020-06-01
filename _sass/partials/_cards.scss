@@ -1,0 +1,17 @@
+.m-cards__wrapper {
+  padding: spacing(1);
+}
+
+.m-card {
+  min-height: 80vh;
+  display: block;
+  background-color: $m-red;
+  margin-bottom: spacing(2);
+  text-align: center;
+}
+
+.m-card__illo {
+  width: 100%;
+  height: 600px;
+  background-color: yellow;
+}

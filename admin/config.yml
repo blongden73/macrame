@@ -23,6 +23,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Name", name: "name", widget: "string", tagname: "h1"}
       - {label: "SubName", name: "subname", widget: "string", tagname: "h1"}
       - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - label: "Sections"
         name: "sections"

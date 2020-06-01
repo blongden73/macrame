@@ -8,13 +8,12 @@ layout: default
 
   {{ content }}
 
-  <section>
-
-    <h3>Recent posts from the blog</h3>
-
+  <section class="m-cards__wrapper">
     <ul>
       {% for post in site.posts limit:5 %}
-        <li>
+        <li class="m-card">
+          <h1>{{ post.name }} {{ post.subname }}<h1>
+          <div class="m-card__illo"></div>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
