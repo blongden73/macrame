@@ -5,29 +5,26 @@ author: john_doe
 name: The Wise Man
 sections:
   section: >-
-    > "If I want to move forward I have to study"
-
-    >
-
-    > \-On Career
-
-
-    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realized: ​“If I want to move forward I have to study.”\
+    **He got his first award while he was studying.** The client, Itaú Bank, one
+    of the most important banks in Latin America. Maybe that early award shaped
+    him, in a way, and led him to work for Itaú Bank, BBVA Bank and Santander
+    Bank; three of the most important banking companies in the world.\
 
     \
 
-    **He graduated from the Graphic Design Career** at Universidad de Buenos Aires and then studied the Art Direction Career at the Asociación Argentina de Agencias de Publicidad.\
+    **The same award that also led to one of the most creative advertising agencies in Argentina at that time.** Crazy hours, crazy weekends. The Mad Men life was not for him. But he learnt a lot there, despite the fact he was not aware he was learning. Now, at the distance he can look back and realize that being ad-educated was quite significant for the problem solver creative he is today.\
 
     \
 
-    And that went quite well.
+    **The advertising approached helped him be a better designer, a better art director.** An That’s what he thinks is the main difference between him and newly graduated designers. “One of the things I noticed by working with younger people is that most of the time they find it difficult to turn an abstract idea into a real piece of work.”\
 
+    \
 
-    > "To turn an abstract idea into a real piece" 
+    That’s his main strength. He has not only the designer tools. He’s well trained into the ad world. And that perfect mix is what makes him different. What makes him create powerful, full-of-content creative assets.\
 
-    >
+    \
 
-    > \- On Art Director role
+    That’s why he can solve different briefings, from branding to illustration, editorial design or even a campaign. That’s why he can work for such a wide variety of brands such as Orbis, Dermaglos, Samsung or Disney Latin America.
 date: 2018-07-06T12:00:00.000Z
 title: Martin Graziano • Art Director
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
