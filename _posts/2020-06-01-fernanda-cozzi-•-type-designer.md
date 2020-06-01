@@ -32,4 +32,57 @@ sections:
     \
 
     **Surprise, surprise... she loved it.** She loved everything about it. She loved the career, the ways of thinking and doing. She loved every single letter, every single family and that love made her see fonts form a completely different perspective.
+  section2: >-
+    > "It’s not the style what makes the difference is the actual font!"
+
+    >
+
+    > \- On Illustration
+
+
+    **She started taking extra classes on Typography and Calligraphy**, shaping her career based on the love she had for letters. And ​now she sells her own fonts.\
+
+    \
+
+    **Fully inspired by people, music and movies,** this typographer, calligrapher and designer, from Argentina has lectured several workshops on experimental typography, calligraphy and monograms.\
+
+    \
+
+    **She’s a regular collaborator in the biennial Tipos Latinos Argentina** since 2010, and her Síncopa Font has been selected for renowned Typography Exhibitions, such as Tipos Latinos and Pangramme.\
+
+    \
+
+    **Is this talent fueled by mate, wine, food and the crappy argentinian mood set?**\
+
+    Maybe. Maybe not.\
+
+    \
+
+    **But she has a completely different approach to design** for being a letter lover, a letter expert.\
+
+    \
+
+    And that’s for sure.
+
+
+    > "In the long run is always better and cheaper to develop you own font"
+
+    >
+
+    > \- On Brand & Fonts
+  section3: >-
+    **She knows that her knowledge on fonts gives her work a completely
+    different perspective** mainly because most graphic designers are still not
+    there. ​You can choose a family based on the idea. But even in one family
+    you have a lot of different fonts. And of course it is not the same one or
+    the other: “It’s not the style what makes the difference. Is the actual
+    font!”\
+
+    \
+
+    **We can try to explain how typography is getting more and more important,** but there’s no better way to put it than on her own words: “At first we could say it was romanticism one font this or the other font, that. Now is a matter of budget. In the long run is always better and cheaper, to develop your own font”.\
+
+    \
+
+    **We can agree or disagree**, but companies like Apple, Google, Netflix and Spotify doing so is definitely and interesting proof to her point.
 ---
