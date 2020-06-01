@@ -42,7 +42,7 @@ sections:
 
     **That’s maybe why he now lives in Galicia, Spain, from where his grandparent originally was.** He moved there by chance. But he found there the peace of mind he needed to be the best graphic designer he could be. The madness of Buenos Aires advertising and design environment was way gone. Peaceful Galicia was now his real home.
   section2: >-
-    > If I want to move forward I have to study
+    > "If I want to move forward I have to study"
 
     >
 
@@ -58,6 +58,13 @@ sections:
     \
 
     And that went quite well.
+
+
+    > "To turn an abstract idea into a real piece"
+
+    >
+
+    > \-On Art Director role
 date: 2018-07-06T12:00:00.000Z
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
