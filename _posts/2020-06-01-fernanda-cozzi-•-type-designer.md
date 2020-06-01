@@ -117,4 +117,32 @@ sections:
     \
 
     “The most difficult part was managing ideas, tests and drafts from Argentina while producing in Europe. It was so fun and challenging.”
+  section5: >-
+    **That’s the story of this girl who fell deeply in love with letters**. So
+    deeply that her beloved hedgehog Aydeé, who was at her side for over 5
+    years, has her own font.\
+
+    \
+
+    **So deeply that she was awarded** the ​Sello Buen Diseño​ in 2018 and selected as one of the ten ​Ascenders by the Type Directors Club​ –a selection of designers under the age of 35 who show remarkable achievement in typography, type design, and lettering– in 2019.
+working: Working Type designer Art Director - Living Argentina
+teaching: >-
+  Teaching\
+
+  Assistant professor in the Master of Typeface Design at the University of Buenos Aires\
+
+  Typography course professor in UCES University.
+awards: |-
+  Awards\
+  Sello Buen Diseño 2018\
+  7ª Bienal de Tipografía Latinoamericana, Tipos Latinos\
+  Pangramme, International student type design exhibition\
+  Type Directors Club Ascenders 2019
+website: Website fercozzi.com
+imstagram: Instagram @fercozzi_letras
+footer: |-
+  # If you share Fers’s passion for typography
+
+  Or want to work with him, on a project, just say the word.\
+  **We are here!**
 ---
