@@ -8,20 +8,39 @@ intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
   back to the roots guy looking for peace of mind.
 sections:
   section: >-
-    
+    A few decades ago, in Buenos Aires, Argentina, Martin Graziano was born. His
+    childhood was similar to every Argentinian kid of that time. With one
+    exception.\
 
-    > "To turn an abstract idea into a real piece" 
+    \
+
+    **Martín’s grandfather was a carpenter.** He had a shop. little Martín spent hours and hours learning how to work the wood. How to shape it and how to make amazing things with it. As he recalls: “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools. It was part of my childhood. It’s who I am.”
+
+
+    > “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools.\
+
+    > It was part of my childhood. It’s who I am.”
 
     >
 
-    > \- On Art Director role
+    > \-On Childhood
 
 
-    * **And that’s why he enjoys working with Macramé**, where he can balance his personal and professional life in a unique way. Choosing not only the amount of time he spends on each job, but also where he lives and how much time he spends with his family. And that’s a lot to say. Specially in the crazy, fast-pacing world we live in these days.\
-      \
-      **Maybe that’s the reason why he’s been working for Macramé for the past 12 years.** Maybe that’s the reason why all his clients wants to keep working with him.\
-      \
-      **Maybe that’s the top skill of this wise man who escaped from the Mad Men world to work** from the peace of his grandfather’s homeland.
+    **He grew up, indeed, but not to become a carpenter. But a graphic designer and art director instead.** We might think those careers are not alike, but they are.\
+
+    \
+
+    **Working the wood is a creative job.** You turn a raw material into an idea. You give it shape. You model it. Same thing happens to an idea.\
+
+    You start from a white canvas and you build on that. You create, you shape. You make that raw idea a poster, or website, or live event.\
+
+    \
+
+    **So yes, we could say his grandparent shaped Martín future.** Without even knowing it.\
+
+    \
+
+    **That’s maybe why he now lives in Galicia, Spain, from where his grandparent originally was.** He moved there by chance. But he found there the peace of mind he needed to be the best graphic designer he could be. The madness of Buenos Aires advertising and design environment was way gone. Peaceful Galicia was now his real home.
 date: 2018-07-06T12:00:00.000Z
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
