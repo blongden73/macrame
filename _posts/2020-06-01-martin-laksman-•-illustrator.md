@@ -2,9 +2,8 @@
 layout: post
 title: Martin Laksman • Illustrator
 name: "The Goalkeeper "
-subname: "with skillfull hands "
-intro_paragraph: The story of  **Martín Laksman**,  or the goalkeeper, that used
-  his hands to draw all his games.
+subname: with skillfull hands
+intro_paragraph: The story of  **Martín Laksman**, or the goalkeeper, that used his hands to draw all his games.
 sections:
   section: >-
     Born in 1976 in the west-side neighbourhood outside of Buenos Aires, Martin

@@ -1,5 +1,35 @@
 .m-logo {
-  max-width: 100px;
-  height: 20px;
+  max-width: 130px;
+  height: 60px;
   background-color: yellow;
+}
+
+
+.m-hamburger {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 100;
+  transition: transform ease-in-out 0.5;
+
+  &.open {
+    span {
+      transform: rotate(45deg) translate(8px, 7px);
+
+      &:nth-child(2) {
+        display: none;
+      }
+      &:nth-child(3) {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+
+  span {
+    height: 2px;
+    width: 30px;
+    background-color: #fff;
+    display: block;
+    margin-bottom: 8px;
+  }
 }
