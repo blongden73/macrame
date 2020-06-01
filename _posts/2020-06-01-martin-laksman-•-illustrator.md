@@ -67,4 +67,18 @@ sections:
     \
 
     He could do a lot for Independiente and he knew it. That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
+  section4: >-
+    > "They consume different. And we must adapt ourselves to them"
+
+    >
+
+    > \-On new generations
+
+
+    **But football is not his only passion.** He’s also deeply involved with the Universidad de Buenos Aires , where he is and associate professor, consults and even helped create the new Post-Graduate course. And all of that might be because he really understands new creative generations: “They are different. They live different. They consume different. And we must adapt ourselves to them. The content must be adapted to their reality”.
+
+
+    \
+
+    **Maybe that perfect understanding of new generations** is what made him enjoyed so much a specific project with Macramé: the illustrations for a novel by Federico Ceniti and Leonardo Bonucci. A great story to fight bullying while searching for true values.
 ---
