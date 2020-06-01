@@ -52,4 +52,19 @@ sections:
     \
 
     **He make time for traveling** and he does that not only to escape from the daily routine, but also to boost his hunger for ideas, art and new trends. Flying to different locations around the world allows him to attend congresses, visit museums and even have a 30-minutes coffee talk with someone he admires.
+
+
+    > "A source of daily inspiration and motivation"
+
+    >
+
+    > \-On sport and design
+  section3: >-
+    That and his beloved Club Atlético Independiente. The football club of his
+    dreams. The football club he’s playing for right now. In a way. His love for
+    the club made him reach the marketing department and offer them his skills.\
+
+    \
+
+    He could do a lot for Independiente and he knew it. That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
 ---
