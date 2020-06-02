@@ -144,6 +144,21 @@ sections:
     And that’s for sure.
 
 
+    ![](/assets/img/uploads/rectangle-copy-8.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-6.jpg)
+
+
     > "In the long run is always better and cheaper to develop you own font"
 
     >
