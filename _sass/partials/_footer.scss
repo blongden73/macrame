@@ -4,7 +4,7 @@
   background-color: $m-black;
 
   h1 {
-    color: #fff;
+    color: $m-white;
     font-family: $recoleta;
     @include font-size($size-card, 1);
     max-width: 80%;
@@ -13,7 +13,7 @@
   }
 
   p {
-    color: #fff;
+    color: $m-white;
   }
 }
 
@@ -33,7 +33,7 @@ footer {
   }
 
   small {
-    color: #fff;
+    color: $m-white;
     margin-top:spacing(2);
   }
 }

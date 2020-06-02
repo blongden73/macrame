@@ -9,7 +9,7 @@
   nav & {
     svg {
       path {
-        fill: #fff;
+        fill: $m-white;
       }
     }
   }
@@ -24,7 +24,7 @@
 
   &.open {
     span {
-      background-color: #fff;
+      background-color: $m-white;
       transform: rotate(45deg) translate(11px, 9px);
 
       &:nth-child(2) {
