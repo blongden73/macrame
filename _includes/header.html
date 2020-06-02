@@ -1,4 +1,4 @@
-<header>
+<header {% if page.layout == 'post' %} style="background-color:{{ page.colour }}" {% endif %}>
   {% include logo.html %}
   <div class="m-hamburger">
     <span></span>

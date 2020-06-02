@@ -1,3 +1,21 @@
+.m-page__footer {
+  padding-top: spacing(2);
+  background-color: $m-black;
+
+  h1 {
+    color: #fff;
+    font-family: $recoleta;
+    @include font-size($size-card, 1);
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p {
+    color: #fff;
+  }
+}
+
 footer {
   text-align: center;
   padding: spacing(2) 0;
@@ -10,7 +28,7 @@ footer {
   }
 
   .m-logo__mini {
-    margin: spacing(2) 0; 
+    margin: spacing(2) 0;
   }
 
   small {

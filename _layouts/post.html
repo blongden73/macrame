@@ -9,7 +9,7 @@ layout: default
 
 {% assign sections = page.sections %}
 
-<section class="m-story__section">
+<section class="m-story__section drop-cap">
   {{sections.section | pretty | markdownify | replace: '\', '' }}
 </section>
 <section class="m-story__section" style="background-color:{{ page.colour }}">
@@ -24,3 +24,16 @@ layout: default
 <section class="m-story__section">
   {{sections.section5 | pretty | markdownify | replace: '\', ''}}
 </section>
+
+<section class="m-story__clients">
+  <h3>Clients</h3>
+</section>
+<section class="m-story__bio">
+  {{page.working | markdownify | replace: '\', ''}}
+  {{page.teaching | markdownify | replace: '\', ''}}
+  {{page.awards | markdownify | replace: '\', ''}}
+  {{page.website | markdownify | replace: '\', ''}}
+  {{page.instagram | markdownify | replace: '\', ''}}
+</section>
+
+{% include page-footer.html %}
