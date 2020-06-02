@@ -139,6 +139,9 @@ sections:
     And that went quite well.
 
 
+    ![]()
+
+
     > "To turn an abstract idea into a real piece"
 
     >
@@ -165,6 +168,21 @@ sections:
     \
 
     **That’s why he can solve different briefings**, from branding to illustration, editorial design or even a campaign. That’s why he can work for such a wide variety of brands such as Orbis, Dermaglos, Samsung or Disney Latin America.
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy.jpg)
+
+
+    ![](/assets/img/uploads/rectangle.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
   section4: >-
     > "To turn an abstract idea into a real piece"
 
