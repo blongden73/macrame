@@ -1,0 +1,19 @@
+.about {
+  .intro {
+    display: none;
+  }
+
+  h1 + h1 {
+    font-family: $recoleta;
+  }
+
+  h2 {
+    font-family: $recoleta;
+  }
+
+  p {
+    @include font-size($base-size, 1.25);
+    font-family: $helvetica;
+    text-align:left;
+  }
+}
