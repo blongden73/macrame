@@ -103,6 +103,9 @@ sections:
     ![](/assets/img/uploads/rectangle-copy-4.jpg)
 
 
+    ![](/assets/img/uploads/rectangle-copy-2.jpg)
+
+
     **He grew up, indeed, but not to become a carpenter. But a graphic designer and art director instead.** We might think those careers are not alike, but they are.
 
 
