@@ -137,7 +137,19 @@ sections:
     And that went quite well.
 
 
-    ![]()
+    ![](/assets/img/uploads/rectangle-copy-8-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-6.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-8.jpg)
 
 
     > "To turn an abstract idea into a real piece"
