@@ -119,7 +119,7 @@ sections:
     ![Martin Laksman](/assets/img/uploads/laksman.jpg)
 
 
-    > "Helping the club of his heart, to conquer the world again"
+    > Helping the club of his heart, to conquer the world again
 
     >
 
