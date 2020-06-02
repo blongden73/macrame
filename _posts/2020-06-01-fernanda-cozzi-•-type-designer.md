@@ -90,11 +90,26 @@ sections:
     **She started thinking of design** when she was at school. At first it was ​Industrial Design​ what she had in mind, because ​“you create actual things”.
 
 
+    ![](/assets/img/uploads/1.jpg)
+
+
     > "You create actual things"
 
     >
 
-    > * On Design
+    > * On Design 
+
+    >
+
+    >   ![](/assets/img/uploads/2.jpg)
+
+    >
+
+    >   ![](/assets/img/uploads/rectangle-copy.jpg)
+
+    >
+
+    >   ![](/assets/img/uploads/4.jpg)
 
 
     **At some point ​one of her teachers gave a class on Fonts**. She did not know that could be something you do for a living. She hadn’t even considered Graphic Design till that precise moment. But those shapes stayed in her mind. And she gave that a try.
@@ -129,6 +144,21 @@ sections:
     And that’s for sure.
 
 
+    ![](/assets/img/uploads/rectangle-copy-8.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-6.jpg)
+
+
     > "In the long run is always better and cheaper to develop you own font"
 
     >
@@ -147,6 +177,39 @@ sections:
 
 
     **We can agree or disagree**, but companies like Apple, Google, Netflix and Spotify doing so is definitely and interesting proof to her point.
+
+
+    ![](/assets/img/uploads/rectangle-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-5.jpg)
+
+
+    ![](/assets/img/uploads/3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-6.jpg)
+
+
+    ![]()
   section4: >-
     > "Managing ideas from Argentina while producing in Europe. So fun and
     challenging"
@@ -175,6 +238,21 @@ sections:
 
 
     “The most difficult part was managing ideas, tests and drafts from Argentina while producing in Europe. It was so fun and challenging.”
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5-2.jpg)
   section5: >-
     **That’s the story of this girl who fell deeply in love with letters**. So
     deeply that her beloved hedgehog Aydeé, who was at her side for over 5
