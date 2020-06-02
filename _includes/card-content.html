@@ -7,5 +7,6 @@
 {% if page.layout == 'post' %}
   <h1>{{ page.logo }} <span>{{ page.subname }}</span></h1>
   <div class="m-card__illo"><img src="{{page.illustration}}"></div>
+  <p class="m-story__of">The story of</p>
   {{ page.intro_paragraph | markdownify }}
 {% endif %}

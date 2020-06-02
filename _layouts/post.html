@@ -25,15 +25,26 @@ layout: default
   {{sections.section5 | pretty | markdownify | replace: '\', ''}}
 </section>
 
+{% assign clients = page.sections.clients %}
+
 <section class="m-story__clients">
   <h3>Clients</h3>
+  <img src="{{clients.client}}">
 </section>
+<div class="divider">
+  <img src="/assets/img/uploads/squiggle-1.png">
+</div>
 <section class="m-story__bio">
+  <h3>Working</h3>
   {{page.working | markdownify | replace: '\', ''}}
+  <h3>Teaching</h3>
   {{page.teaching | markdownify | replace: '\', ''}}
+  <h3>Awards</h3>
   {{page.awards | markdownify | replace: '\', ''}}
+  <h3>Website</h3>
   {{page.website | markdownify | replace: '\', ''}}
-  {{page.instagram | markdownify | replace: '\', ''}}
+  <h3>Instagram</h3>
+  {{page.imstagram | markdownify | replace: '\', ''}}
 </section>
 
 {% include page-footer.html %}
