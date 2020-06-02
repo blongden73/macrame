@@ -1,21 +1,48 @@
 ---
 layout: page
-title: About
+title: "A world where "
+subtitle: everyone  can make  a living from what they love.
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
   output in the browser or in the generated file _site/about.html.
 permalink: /about
 section: about
-intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+intro_paragraph: >-
+  # Simple and possible.
+
+
+  # This is what we stand for.
+
+
+  ![](/assets/img/uploads/abou2-3.png)
+
+
+  ## Today, many of us have the chance to turn our passion into our job.
+
+
+  ## Macrame Network is made up of people who want to create fresh, exciting projects.
+
+
+  ## We like to support people with a vision and those who strive to make it happen.
+
+
+  # Want to know more?
+
+
+  ![](/assets/img/uploads/abou2-1.png)
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Macramè was founded in 2004, in north-east Italy, the region well-known for its entrepreneurial spirit.
 
-### A heading
+Conceived as a network of professionals with the aim of providing quality communication design services at a fair price.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Today what people want is just a click away. This means that things are fast and simple. People expect quality products at a reasonable price.
 
-#### Another heading
+Macramè anticipated the way the world is working today: it’s on-demand and global. Our collaborators are based all over the world, but work together to create fast, affordable communication design solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](/assets/img/uploads/abou2-2.png)
+
+We’ve invested a lot of time and energy in selecting our network. We’ve done it with care and by considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give to our clients. One can’t go without the other.
+
+We can respond to the specific demands of our clients, and find the best solution at a fair price
+
+That’s what makes us different.
