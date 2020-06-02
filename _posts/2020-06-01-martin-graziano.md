@@ -120,17 +120,16 @@ sections:
 
     > * On Career
 
-    >
 
-    >   **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realised: ​“If I want to move forward I have to study.”\
+    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realised: ​“If I want to move forward I have to study.”\
 
-    >   \
+    \
 
-    >   **He graduated from the Graphic Design Career** at Universidad de Buenos Aires and then studied the Art Direction Career at the Asociación Argentina de Agencias de Publicidad.\
+    **He graduated from the Graphic Design Career** at Universidad de Buenos Aires and then studied the Art Direction Career at the Asociación Argentina de Agencias de Publicidad.\
 
-    >   \
+    \
 
-    >   And that went quite well.
+    And that went quite well.
 
 
     ![]()
