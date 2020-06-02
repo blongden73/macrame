@@ -111,11 +111,12 @@ sections:
     heart, Independiente, to conquer the world, again.
 
 
-    \
-
     **He played many years and enjoyed football a lot,** but at some point he quit, to pursue a career in illustration and graphic design.\
 
     We might start wondering what might have happened if he kept playing football.
+
+
+    ![Martin Laksman](/assets/img/uploads/laksman.jpg)
 
 
     > "Helping the club of his heart, to conquer the world again"
@@ -123,6 +124,15 @@ sections:
     >
 
     > * On Childhood dreams
+
+
+    ![Martin Laksman 1](/assets/img/uploads/img1.jpg)
+
+
+    ![Martin Laksman 2](/assets/img/uploads/img2.jpg)
+
+
+    ![Martin Laksman 3](/assets/img/uploads/img3.jpg)
 
 
     **But the truth is that there’s a way more important question here:** was he a great goalkeeper because his hands were used to drawing amazing stuff? Or is he a talented illustrator because his hands were used to avoid angry balls from hitting the net?
