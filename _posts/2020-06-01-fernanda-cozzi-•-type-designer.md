@@ -189,6 +189,21 @@ sections:
 
 
     ![](/assets/img/uploads/rectangle-copy-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-2.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
   section4: >-
     > "Managing ideas from Argentina while producing in Europe. So fun and
     challenging"
