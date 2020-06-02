@@ -87,8 +87,6 @@ sections:
     ![](/assets/img/uploads/martin.jpg)
 
 
-
-
     > “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools.\
 
     > It was part of my childhood. It’s who I am.”
@@ -96,6 +94,15 @@ sections:
     >
 
     > * On Childhood
+
+
+    ![](/assets/img/uploads/rectangle-copy-4-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.jpg)
 
 
     **He grew up, indeed, but not to become a carpenter. But a graphic designer and art director instead.** We might think those careers are not alike, but they are.\
