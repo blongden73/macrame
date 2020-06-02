@@ -1,9 +1,8 @@
 ---
 layout: post
-subname: who ran away from mad men
-author: john_doe
 title: Martin Graziano • Art Director
 name: The Wise Man
+subname: who ran away from mad men
 logo: <svg width="189" height="72" viewBox="0 0 189 72" fill="none"
   xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd"
   clip-rule="evenodd" d="M96.507 29.42v1.437H84.71V29.42c1.43-.18 1.653-.584
@@ -69,10 +68,13 @@ logo: <svg width="189" height="72" viewBox="0 0 189 72" fill="none"
   2.508 1.662 2.684v1.408h-11.861v-1.408c1.437-.176 1.662-.572
   1.662-2.684V56.93c0-2.245-.629-3.345-1.842-3.345-.809 0-1.438.308-2.516
   1.232v12.233c0 2.112.27 2.508 1.662 2.684z" fill="#000"/></svg>
-colour: "#FF9022"
 illustration: /assets/img/uploads/goalie.png
-intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
-  back to the roots guy looking for peace of mind.
+intro_paragraph: "**Martín Graziano**, Designer, Art Director and back to the
+  roots guy looking for peace of mind."
+working: "Art Director  "
+living: "Spain "
+author: john_doe
+colour: "#FF9022"
 sections:
   section: >-
     A few decades ago, in Buenos Aires, Argentina, Martin Graziano was born. His
@@ -206,8 +208,7 @@ sections:
 
     ![](/assets/img/uploads/rectangle.png)
 date: 2018-07-06T12:00:00.000Z
-working: " Working Art Director  Living Spain "
-website: " Website martingraziano.com.ar"
+website: martingraziano.com.ar
 footer: |-
   # **If you share Martin’s** eagerness to always create something different.
 
