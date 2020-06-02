@@ -84,13 +84,25 @@ sections:
     **Martín’s grandfather was a carpenter.** He had a shop. little Martín spent hours and hours learning how to work the wood. How to shape it and how to make amazing things with it. As he recalls: “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools. It was part of my childhood. It’s who I am.”
 
 
+    ![](/assets/img/uploads/martin.jpg)
+
+
     > “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools.\
 
     > It was part of my childhood. It’s who I am.”
 
     >
 
-    > \-On Childhood
+    > * On Childhood
+
+
+    ![](/assets/img/uploads/rectangle-copy-4-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.jpg)
 
 
     **He grew up, indeed, but not to become a carpenter. But a graphic designer and art director instead.** We might think those careers are not alike, but they are.\
@@ -113,10 +125,10 @@ sections:
 
     >
 
-    > \-On Career
+    > * On Career
 
 
-    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realized: ​“If I want to move forward I have to study.”\
+    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realised: ​“If I want to move forward I have to study.”\
 
     \
 
@@ -127,11 +139,14 @@ sections:
     And that went quite well.
 
 
+    ![]()
+
+
     > "To turn an abstract idea into a real piece"
 
     >
 
-    > \-On Art Director role
+    > * On Art Director role
   section3: >-
     **He got his first award while he was studying.** The client, Itaú Bank, one
     of the most important banks in Latin America. Maybe that early award shaped
@@ -153,12 +168,27 @@ sections:
     \
 
     **That’s why he can solve different briefings**, from branding to illustration, editorial design or even a campaign. That’s why he can work for such a wide variety of brands such as Orbis, Dermaglos, Samsung or Disney Latin America.
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy.jpg)
+
+
+    ![](/assets/img/uploads/rectangle.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.jpg)
   section4: >-
     > "To turn an abstract idea into a real piece"
 
     >
 
-    > \-On Art Director role
+    > * On Art Director role
 
 
     \
@@ -172,6 +202,24 @@ sections:
     \
 
     **Maybe that’s the top skill of this wise man** who escaped from the Mad Men world to work from the peace of his grandfather’s homeland.
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-1.png)
+
+
+    ![](/assets/img/uploads/rectangle.png)
 date: 2018-07-06T12:00:00.000Z
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
