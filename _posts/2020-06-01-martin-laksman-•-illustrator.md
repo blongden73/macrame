@@ -3,7 +3,7 @@ layout: post
 title: Martin Laksman • Illustrator
 name: "The Goalkeeper "
 subname: with skillfull hands
-illustration: /assets/img/uploads/runner.png
+illustration: /assets/img/uploads/illustrator.gif
 intro_paragraph: The story of  **Martín Laksman**, or the goalkeeper, that used
   his hands to draw all his games.
 sections:
