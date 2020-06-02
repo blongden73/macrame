@@ -159,6 +159,30 @@ sections:
     **He make time for traveling** and he does that not only to escape from the daily routine, but also to boost his hunger for ideas, art and new trends. Flying to different locations around the world allows him to attend congresses, visit museums and even have a 30-minutes coffee talk with someone he admires.
 
 
+    ![Martin Laksman 4](/assets/img/uploads/img4.jpg)
+
+
+    ![Martin Laksman 6](/assets/img/uploads/img5.jpg)
+
+
+    ![Martin Laksman 7](/assets/img/uploads/img6.jpg)
+
+
+    ![Martin Laksman 8](/assets/img/uploads/img7.jpg)
+
+
+    ![Martin Laksman 9](/assets/img/uploads/img8.jpg)
+
+
+    ![Martin Laksman 10](/assets/img/uploads/img9.jpg)
+
+
+    ![Martin Laksman 11](/assets/img/uploads/img10.jpg)
+
+
+    ![Martin Laksman 12](/assets/img/uploads/img11.jpg)
+
+
     > "A source of daily inspiration and motivation"
 
     >
@@ -171,18 +195,53 @@ sections:
 
 
     He could do a lot for Independiente and he knew it. That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
+
+
+    ![Martin Laksman 13](/assets/img/uploads/img12.jpg)
+
+
+    ![](/assets/img/uploads/img13.jpg)
+
+
+    ![](/assets/img/uploads/img14.jpg)
+
+
+    ![](/assets/img/uploads/img15.jpg)
+
+
+    ![](/assets/img/uploads/img16.jpg)
+
+
+    ![](/assets/img/uploads/img17.jpg)
+
+
+    ![](/assets/img/uploads/img18.jpg)
+
+
+    ![](/assets/img/uploads/img19.jpg)
   section4: >-
-    > "They consume different. And we must adapt ourselves to them"
-
-    >
-
-    > * On new generations
+    "They consume different. And we must adapt ourselves to them"
 
 
     **But football is not his only passion.** He’s also deeply involved with the Universidad de Buenos Aires , where he is and associate professor, consults and even helped create the new Post-Graduate course. And all of that might be because he really understands new creative generations: “They are different. They live different. They consume different. And we must adapt ourselves to them. The content must be adapted to their reality”.
 
 
     **Maybe that perfect understanding of new generations** is what made him enjoyed so much a specific project with Macramé: the illustrations for a novel by Federico Ceniti and Leonardo Bonucci. A great story to fight bullying while searching for true values.
+
+
+    ![](/assets/img/uploads/img20.jpg)
+
+
+    ![](/assets/img/uploads/img21.jpg)
+
+
+    ![](/assets/img/uploads/img22.jpg)
+
+
+    ![](/assets/img/uploads/img23.jpg)
+
+
+    ![](/assets/img/uploads/img24.jpg)
   section5: >-
     > "Being able to work and meet amazing people"
 
