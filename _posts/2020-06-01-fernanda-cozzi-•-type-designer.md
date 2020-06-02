@@ -99,17 +99,14 @@ sections:
 
     > * On Design 
 
-    >
 
-    >   ![](/assets/img/uploads/2.jpg)
+    ![]()
 
-    >
 
-    >   ![](/assets/img/uploads/rectangle-copy.jpg)
+    ![]()
 
-    >
 
-    >   ![](/assets/img/uploads/4.jpg)
+    ![]()
 
 
     **At some point ​one of her teachers gave a class on Fonts**. She did not know that could be something you do for a living. She hadn’t even considered Graphic Design till that precise moment. But those shapes stayed in her mind. And she gave that a try.
