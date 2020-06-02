@@ -275,7 +275,7 @@ awards: |-
 website: Website martin.laksman.com.ar
 imstagram: Instagram @mlaksman
 footer: |-
-  **If you share Martin’s** passion for football
+  # **If you share Martin’s** passion for football
 
   Or want to work with him, on a project, just say the word.\
   **We are here!**
