@@ -181,15 +181,11 @@ sections:
     > * On Art Director role
 
 
-    \
+    **And that’s why he enjoys working with Macramé**, where he can balance his personal and professional life in a unique way. Choosing not only the amount of time he spends on each job, but also where he lives and how much time he spends with his family. And that’s a lot to say. Specially in the crazy, fast-pacing world we live in these days.
 
-    **And that’s why he enjoys working with Macramé**, where he can balance his personal and professional life in a unique way. Choosing not only the amount of time he spends on each job, but also where he lives and how much time he spends with his family. And that’s a lot to say. Specially in the crazy, fast-pacing world we live in these days.\
 
-    \
+    **Maybe that’s the reason why he’s been working for Macramé for the past 12 years.** Maybe that’s the reason why all his clients wants to keep working with him.
 
-    **Maybe that’s the reason why he’s been working for Macramé for the past 12 years.** Maybe that’s the reason why all his clients wants to keep working with him.\
-
-    \
 
     **Maybe that’s the top skill of this wise man** who escaped from the Mad Men world to work from the peace of his grandfather’s homeland.
 
