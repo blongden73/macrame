@@ -10,9 +10,6 @@ layout: default
 
 {% for post in site.posts limit:5 %}
   <div class="m-card" style="background-color:{{ post.colour }}">
-    <h1>{{ post.name }} {{ post.subname }}</h1>
-    <div class="m-card__illo"><img src="{{post.illustration}}"></div>
-    <h2>{{ post.title }}</h2>
-    <a href="{{ post.url }}"><span class="button">Read more</span></a>
+    {% include card-content.html %}
   </div>
 {% endfor %}

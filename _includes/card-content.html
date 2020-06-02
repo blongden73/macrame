@@ -1,0 +1,11 @@
+{% if page.layout == 'home' %}
+  <h1>{{ post.logo }} <span>{{ post.subname }}</span></h1>
+  <div class="m-card__illo"><img src="{{post.illustration}}"></div>
+  <h2>{{ post.title }}</h2>
+  <a href="{{ post.url }}"><span class="button">Read more</span></a>
+{% endif %}
+{% if page.layout == 'post' %}
+  <h1>{{ page.logo }} <span>{{ page.subname }}</span></h1>
+  <div class="m-card__illo"><img src="{{page.illustration}}"></div>
+  {{ page.intro_paragraph | markdownify }}
+{% endif %}

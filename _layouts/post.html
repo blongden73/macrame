@@ -3,17 +3,24 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
+<div class="m-card__article" style="background-color:{{ page.colour }}">
+  {% include card-content.html %}
+</div>
 
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
+{% assign sections = page.sections %}
 
-{% include page-intro.html %}
-
-{{ content }}
+<section class="m-story__section">
+  {{sections.section | pretty | markdownify | replace: '\', '' }}
+</section>
+<section class="m-story__section" style="background-color:{{ page.colour }}">
+  {{sections.section2 | pretty | markdownify | replace: '\', '' }}
+</section>
+<section class="m-story__section">
+  {{sections.section3 | pretty | markdownify | replace: '\', ''}}
+</section>
+<section class="m-story__section" style="background-color:{{ page.colour }}">
+  {{sections.section4 | pretty | markdownify | replace: '\', ''}}
+</section>
+<section class="m-story__section">
+  {{sections.section5 | pretty | markdownify | replace: '\', ''}}
+</section>
