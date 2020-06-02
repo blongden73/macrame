@@ -2,7 +2,7 @@
 layout: page
 title: "A world where "
 subtitle: everyone  can make a living from what they love.
-meta_description: ""
+meta_description: everyone  can make a living from what they love.
 permalink: /about
 section: about
 intro_paragraph: >-
