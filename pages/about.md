@@ -1,10 +1,8 @@
 ---
 layout: page
 title: "A world where "
-subtitle: everyone  can make  a living from what they love.
-meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
+subtitle: everyone  can make a living from what they love.
+meta_description: ""
 permalink: /about
 section: about
 intro_paragraph: >-
