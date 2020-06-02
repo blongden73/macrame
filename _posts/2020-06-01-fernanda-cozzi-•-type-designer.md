@@ -75,8 +75,8 @@ logo: <svg width="260" height="62" viewBox="0 0 260 62" fill="none"
   0-1.56-.12-1.56-4.08z" fill="#000"/></svg>
 colour: "#FFE200"
 illustration: /assets/img/uploads/dreamer.png
-intro_paragraph: The story of **Fer Cozzi**, the figure-skater-dreamer who who
-  wrote her story with her own fonts.
+intro_paragraph: "**Fer Cozzi**, the figure-skater-dreamer who who wrote her
+  story with her own fonts."
 sections:
   section: >-
     Once upon a time there was a little girl who dreamt to be a figure skater.
