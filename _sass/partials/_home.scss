@@ -1,0 +1,21 @@
+main {
+  text-align: center;
+  padding: spacing(4) spacing(1);
+
+  h1 {
+    @include font-size($size-one, 1);
+    letter-spacing: -0.5px;
+
+    span {
+      font-family: $recoleta;
+      display: block;
+    }
+  }
+
+  p {
+    @include font-size($size-four, 1.4);
+    font-family: $recoleta;
+    color: #121212;
+    padding: spacing(2);
+  }
+}

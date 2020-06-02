@@ -10,7 +10,7 @@
   transition: all ease-in-out 0.5s;
 
   h1 {
-    @include font-size($size-one, 1);
+    @include font-size($size-card, 1);
   }
 
   h2 {
@@ -24,6 +24,10 @@
 
   &.inview {
     transform: scale(1);
+  }
+
+  .button {
+    font-size: $size-four;
   }
 }
 

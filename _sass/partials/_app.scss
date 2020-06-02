@@ -16,7 +16,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: spacing(1);
+  padding: spacing(2);
 }
 
 // logo, is a grid item
@@ -50,8 +50,9 @@ nav {
   width: 100%;
   position: fixed;
   top: 0;
-  padding: spacing(1);
+  padding: spacing(2);
   display: none;
+  z-index: 90;
 
   &.open {
     display: block;
@@ -93,9 +94,7 @@ nav {
 // our main content wrapper, the width scales with font size
 main {
   width: 100%;
-  padding: spacing(1);
-  scroll-snap-type: y mandatory;
-  max-height: 100vh;
+  padding: spacing(2);
 
   @include mq($from: desktop) {
     width: 600px;
@@ -149,7 +148,7 @@ html[data-current="contact"] main > form {
 }
 
 .button {
-  @include button(transparent, #fff);
+  @include button(transparent, $m-black);
   font-family: $recoleta;
 }
 
@@ -166,14 +165,5 @@ html[data-current="contact"] main > form {
 }
 
 footer {
-  grid-column: full;
-  display: grid;
-  grid-template-columns:
-    [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 50rem) [main-end]
-    minmax(1rem, 1fr) [full-end];
-  background-color: $grey-bg-color;
-  > small {
-    grid-column: main;
-  }
+  background-color: $m-black;
 }

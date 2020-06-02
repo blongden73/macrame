@@ -1,6 +1,6 @@
 $m-black:#121212;
 $m-red:#FF5C5A;
-$m-orange:#FF7F00;
+$m-orange:#FF9022;
 $m-yellow:#FFE200;
 $m-aqua:#59E4C5;
 $m-blue:#5EA1FF;
@@ -18,11 +18,12 @@ $selection-bg-color: rgba(255,255,100,0.5);
 // typographic defaults
 $base-size: 16px; // *1.25 for base line
 $size-one: 52px;
+$size-card: 40px;
 $size-two: 32px;
 $size-three: 25px;
 $size-four: 20px;
-$base-font: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue;
-$code-font: Courier, monospace;
+$base-font: $helvetica;
+$code-font: $helvetica;
 $base-font-size: 62.5%;
 $base-font-weight: 300;
 $bold-font-weight: 600;

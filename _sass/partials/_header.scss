@@ -18,8 +18,8 @@
 
 .m-hamburger {
   position: fixed;
-  top: 10px;
-  right: 10px;
+  top: spacing(2);
+  right: spacing(2);
   z-index: 100;
 
   &.open {

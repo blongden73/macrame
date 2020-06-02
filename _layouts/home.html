@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<h2>{{ page.title }} {{ page.subtitle }}</h2>
+<h1>{{ page.title }} <span>{{ page.subtitle }}</span></h1>
 
   {% include page-intro.html %}
 
   {{ content }}
 
 {% for post in site.posts limit:5 %}
-  <div class="m-card">
+  <div class="m-card" style="background-color:{{ post.colour }}">
     <h1>{{ post.name }} {{ post.subname }}</h1>
     <div class="m-card__illo"><img src="{{post.illustration}}"></div>
     <h2>{{ post.title }}</h2>
