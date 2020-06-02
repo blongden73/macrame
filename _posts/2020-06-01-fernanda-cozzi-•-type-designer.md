@@ -204,6 +204,12 @@ sections:
 
 
     ![](/assets/img/uploads/rectangle-copy-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-6.jpg)
+
+
+    ![]()
   section4: >-
     > "Managing ideas from Argentina while producing in Europe. So fun and
     challenging"
@@ -232,6 +238,21 @@ sections:
 
 
     “The most difficult part was managing ideas, tests and drafts from Argentina while producing in Europe. It was so fun and challenging.”
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5-1.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-5-2.jpg)
   section5: >-
     **That’s the story of this girl who fell deeply in love with letters**. So
     deeply that her beloved hedgehog Aydeé, who was at her side for over 5
