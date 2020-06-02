@@ -153,7 +153,7 @@ sections:
 
     >
 
-    > \- On Macramé Network
+    > * On Macramé Network
 
 
     **But she’s not only a letter fan. She’s also a devoted teacher.**\
