@@ -177,6 +177,18 @@ sections:
 
 
     **We can agree or disagree**, but companies like Apple, Google, Netflix and Spotify doing so is definitely and interesting proof to her point.
+
+
+    ![](/assets/img/uploads/rectangle-4.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-5.jpg)
+
+
+    ![](/assets/img/uploads/3.jpg)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.jpg)
   section4: >-
     > "Managing ideas from Argentina while producing in Europe. So fun and
     challenging"
