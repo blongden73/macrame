@@ -93,12 +93,16 @@ nav {
 // our main content wrapper, the width scales with font size
 main {
   width: 100%;
+  padding: spacing(1);
+  scroll-snap-type: y mandatory;
+  max-height: 100vh;
 
   @include mq($from: desktop) {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
   }
+
 }
 
 // blog posts list
@@ -142,6 +146,11 @@ html[data-current="contact"] main > form {
   button {
     width: 100%;
   }
+}
+
+.button {
+  @include button(transparent, #fff);
+  font-family: $recoleta;
 }
 
 // reset CSS Grid fallbacks when they aren't required

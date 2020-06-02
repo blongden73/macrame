@@ -1,7 +1,18 @@
 .m-logo {
   width: 130px;
-  height: 60px;
-  background-color: yellow;
+
+  svg {
+    width: 100%;
+    height: auto;
+  }
+
+  nav & {
+    svg {
+      path {
+        fill: #fff;
+      }
+    }
+  }
 }
 
 

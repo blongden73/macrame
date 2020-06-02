@@ -8,15 +8,11 @@ layout: default
 
   {{ content }}
 
-  <section class="m-cards__wrapper">
-    <ul>
-      {% for post in site.posts limit:5 %}
-        <li class="m-card">
-          <h1>{{ post.name }} {{ post.subname }}<h1>
-          <div class="m-card__illo"></div>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-
-  </section>
+{% for post in site.posts limit:5 %}
+  <div class="m-card">
+    <h1>{{ post.name }} {{ post.subname }}</h1>
+    <div class="m-card__illo"><img src="{{post.illustration}}"></div>
+    <h2>{{ post.title }}</h2>
+    <a href="{{ post.url }}"><span class="button">Read more</span></a>
+  </div>
+{% endfor %}
