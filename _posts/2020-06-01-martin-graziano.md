@@ -84,13 +84,18 @@ sections:
     **Martín’s grandfather was a carpenter.** He had a shop. little Martín spent hours and hours learning how to work the wood. How to shape it and how to make amazing things with it. As he recalls: “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools. It was part of my childhood. It’s who I am.”
 
 
+    ![](/assets/img/uploads/martin.jpg)
+
+
+
+
     > “I grew up at that shop. Surrounded by my grandfather’s sawdust and all the tools.\
 
     > It was part of my childhood. It’s who I am.”
 
     >
 
-    > \-On Childhood
+    > * On Childhood
 
 
     **He grew up, indeed, but not to become a carpenter. But a graphic designer and art director instead.** We might think those careers are not alike, but they are.\
@@ -113,10 +118,10 @@ sections:
 
     >
 
-    > \-On Career
+    > * On Career
 
 
-    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realized: ​“If I want to move forward I have to study.”\
+    **However this long journey started a long time ago,** when Martín was finishing high school. He had a few classes on design and advertising and knew his future was going that way. And he got his first job at an editorial house. He was a self-taught designer at that time. He did fine, but at some point he realised: ​“If I want to move forward I have to study.”\
 
     \
 
@@ -131,7 +136,7 @@ sections:
 
     >
 
-    > \-On Art Director role
+    > * On Art Director role
   section3: >-
     **He got his first award while he was studying.** The client, Itaú Bank, one
     of the most important banks in Latin America. Maybe that early award shaped
@@ -158,7 +163,7 @@ sections:
 
     >
 
-    > \-On Art Director role
+    > * On Art Director role
 
 
     \
