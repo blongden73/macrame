@@ -4,6 +4,7 @@ subname: who ran away from mad men
 author: john_doe
 title: Martin Graziano • Art Director
 name: The Wise Man
+colour: "#FF7F00"
 intro_paragraph: The story of **Martín Graziano**, Designer, Art Director and
   back to the roots guy looking for peace of mind.
 sections:
