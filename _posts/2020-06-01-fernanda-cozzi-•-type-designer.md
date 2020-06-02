@@ -90,11 +90,26 @@ sections:
     **She started thinking of design** when she was at school. At first it was ​Industrial Design​ what she had in mind, because ​“you create actual things”.
 
 
+    ![](/assets/img/uploads/1.jpg)
+
+
     > "You create actual things"
 
     >
 
-    > * On Design
+    > * On Design 
+
+    >
+
+    >   ![](/assets/img/uploads/2.jpg)
+
+    >
+
+    >   ![](/assets/img/uploads/rectangle-copy.jpg)
+
+    >
+
+    >   ![](/assets/img/uploads/4.jpg)
 
 
     **At some point ​one of her teachers gave a class on Fonts**. She did not know that could be something you do for a living. She hadn’t even considered Graphic Design till that precise moment. But those shapes stayed in her mind. And she gave that a try.
