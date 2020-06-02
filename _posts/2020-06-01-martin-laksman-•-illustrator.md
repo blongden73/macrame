@@ -122,12 +122,11 @@ sections:
 
     >
 
-    > \-On Childhood dreams
+    > * On Childhood dreams
 
 
-    **But the truth is that there’s a way more important question here:** was he a great goalkeeper because his hands were used to drawing amazing stuff? Or is he a talented illustrator because his hands were used to avoid angry balls from hitting the net?\
+    **But the truth is that there’s a way more important question here:** was he a great goalkeeper because his hands were used to drawing amazing stuff? Or is he a talented illustrator because his hands were used to avoid angry balls from hitting the net?
 
-    \
 
     **We’ll never know that for sure.** But what we do know is that since his early years he enjoyed drawing. And playing football of course. But in his own words: “All the memories I have are of me drawing stuff”.
   section2: >-
