@@ -260,20 +260,17 @@ sections:
 
 
     A story of passion for doing awesome work and sharing values. That’s the story of this goalkeeper with skilful hands. That’s the story of Martin Laksman.
-working: Working Illustrator Art Director Club Atletico Independiente - Living Argentina
+working: Illustrator Art Director Club Atletico Independiente
+living: Argentina
 teaching: >-
-  Teaching\
-
   Director, Programa de Actualización\
 
   en Ilustración Profesional - University\
 
   of Buenos Aires Profesor Adjunto, ilustración, Catedra Roldan - University of Buenos Aires
-awards: |-
-  Awards\
-  Sello Buen Diseño 2019
-website: Website martin.laksman.com.ar
-imstagram: Instagram @mlaksman
+awards: Sello Buen Diseño 2019
+website: martin.laksman.com.ar
+imstagram: "@mlaksman"
 footer: |-
   # **If you share Martin’s** passion for football
 
