@@ -260,6 +260,8 @@ sections:
 
 
     A story of passion for doing awesome work and sharing values. That’s the story of this goalkeeper with skilful hands. That’s the story of Martin Laksman.
+  clients:
+    client: /assets/img/uploads/group-11.png
 working: Illustrator Art Director Club Atletico Independiente
 living: Argentina
 teaching: >-
