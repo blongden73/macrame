@@ -202,6 +202,24 @@ sections:
     \
 
     **Maybe that’s the top skill of this wise man** who escaped from the Mad Men world to work from the peace of his grandfather’s homeland.
+
+
+    ![](/assets/img/uploads/rectangle-copy-3.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-1.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-2.png)
+
+
+    ![](/assets/img/uploads/rectangle-copy-3-1.png)
+
+
+    ![](/assets/img/uploads/rectangle.png)
 date: 2018-07-06T12:00:00.000Z
 working: " Working Art Director  Living Spain "
 website: " Website martingraziano.com.ar"
