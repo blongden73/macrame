@@ -140,7 +140,7 @@ sections:
 
     **We’ll never know that for sure.** But what we do know is that since his early years he enjoyed drawing. And playing football of course. But in his own words: “All the memories I have are of me drawing stuff”.
   section2: >-
-    > "All the memories I have are of me drawing stuff"
+    > All the memories I have are of me drawing stuff
 
     >
 
@@ -183,7 +183,7 @@ sections:
     ![Martin Laksman 12](/assets/img/uploads/img11.jpg)
 
 
-    > "A source of daily inspiration and motivation"
+    > A source of daily inspiration and motivation
 
     >
 
@@ -220,7 +220,11 @@ sections:
 
     ![](/assets/img/uploads/img19.jpg)
   section4: >-
-    "They consume different. And we must adapt ourselves to them"
+    > They consume different. And we must adapt ourselves to them
+
+    >
+
+    > * On younger generations
 
 
     **But football is not his only passion.** He’s also deeply involved with the Universidad de Buenos Aires , where he is and associate professor, consults and even helped create the new Post-Graduate course. And all of that might be because he really understands new creative generations: “They are different. They live different. They consume different. And we must adapt ourselves to them. The content must be adapted to their reality”.
@@ -243,7 +247,7 @@ sections:
 
     ![](/assets/img/uploads/img24.jpg)
   section5: >-
-    > "Being able to work and meet amazing people"
+    > Being able to work and meet amazing people
 
     >
 
