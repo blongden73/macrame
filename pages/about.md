@@ -28,6 +28,11 @@ intro_paragraph: >-
 
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
+footer: >-
+  # If you would like to **discuss a project or say Hi.**
+
+
+  Since 2004, we support people with a vision  and those who strive to make it happen.
 ---
 **Macramè was founded in 2004,** in north-east Italy, the region well-known for its entrepreneurial spirit.
 
