@@ -68,7 +68,7 @@ logo: <svg width="189" height="72" viewBox="0 0 189 72" fill="none"
   2.508 1.662 2.684v1.408h-11.861v-1.408c1.437-.176 1.662-.572
   1.662-2.684V56.93c0-2.245-.629-3.345-1.842-3.345-.809 0-1.438.308-2.516
   1.232v12.233c0 2.112.27 2.508 1.662 2.684z" fill="#000"/></svg>
-illustration: /assets/img/uploads/goalie.png
+illustration: /assets/img/uploads/• running-800x800.gif
 intro_paragraph: "**Martín Graziano**, Designer, Art Director and back to the
   roots guy looking for peace of mind."
 working: "Art Director  "
