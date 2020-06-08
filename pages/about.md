@@ -15,13 +15,13 @@ intro_paragraph: >-
   ![](/assets/img/uploads/• about-800x800.gif)
 
 
-  ## Today, many of us have the chance to turn our passion into our job.
+  ## Today, many of us have the chance to **turn our passion into our job.**
 
 
-  ## Macrame Network is made up of people who want to create fresh, exciting projects.
+  ## Macrame Network is made up of people who want to **create fresh, exciting projects.**
 
 
-  ## We like to support people with a vision and those who strive to make it happen.
+  ## We like to support people with a vision and those who strive to **make it happen.**
 
 
   # Want to know more?
