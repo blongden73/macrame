@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 01 Fernanda Cozzi • Type designer
-name: "The Dreamer Girl "
-subname: who feel in love with letters
+name: "01 The Dreamer Girl "
+subname: 01 who feel in love with letters
 logo: <svg width="260" height="175" viewBox="0 0 260 175" fill="none"
   xmlns="http://www.w3.org/2000/svg"><path
   d="M112.712.2h-22.64v7.2l.44.04c0-.04.16-1.76 1.08-3.44 1.12-2.12 2.84-3.24
