@@ -2,6 +2,10 @@ main {
   text-align: center;
   padding: spacing(4) spacing(1);
 
+  &.home {
+    padding: spacing(4) spacing(1) 0 spacing(1);
+  }
+
   h1 {
     @include font-size($size-zero, 1);
     letter-spacing: -0.5px;
