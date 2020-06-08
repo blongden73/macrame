@@ -3,19 +3,48 @@ main {
   padding: spacing(4) spacing(1);
 
   h1 {
-    @include font-size($size-one, 1);
+    @include font-size($size-zero, 1);
     letter-spacing: -0.5px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
 
     span {
+      line-height: calc(#{$size-zero} - 10px);
       font-family: $recoleta;
       display: block;
+      font-weight: bold;
     }
   }
 
-  p {
-    @include font-size($size-four, 1.4);
+  h2 {
+    @include font-size($size-five, 1);
+    @include Uppercase;
+    margin-top: 20px;
+
+    &:after {
+      content: '';
+      display: block;
+      height: 40px;
+      width: 30px;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      background-image: url('/assets/img/uploads/downarrow.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  }
+
+  p.intro {
+    @include font-size($size-three, 1.2);
     font-family: $recoleta;
     color: #121212;
     padding: spacing(2);
   }
+}
+
+.m-home__intro {
+  min-height: 60vh;
 }

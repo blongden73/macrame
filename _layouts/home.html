@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
+<div class="m-home__intro">
+  <h1>{{ page.title }} <span>{{ page.subtitle }}</span></h1>
 
-<h1>{{ page.title }} <span>{{ page.subtitle }}</span></h1>
+    {% include page-intro.html %}
 
-  {% include page-intro.html %}
+    {{ content }}
 
-  {{ content }}
-
+    <h2>Discover their stories</h2>
+</div>
 {% for post in site.posts limit:5 %}
   <div class="m-card" style="background-color:{{ post.colour }}">
     {% include card-content.html %}

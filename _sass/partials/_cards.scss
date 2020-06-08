@@ -10,12 +10,26 @@
   transition: all ease-in-out 0.5s;
 
   h1 {
-    @include font-size($size-card, 1);
+    transform: scale(1.1);
+
+    span {
+      font-family: 'helvetica';
+      @include font-size($size-card, 1);
+      margin-top: -10px;
+      font-weight: 100;
+      text-transform: lowercase;
+    }
   }
 
   h2 {
     @include font-size($base-size, 1);
     margin-top: spacing(2);
+    text-transform: none;
+    letter-spacing: 0;
+
+    &:after {
+      display: none;
+    }
   }
 
   a {
@@ -28,6 +42,7 @@
 
   .button {
     font-size: $size-four;
+    font-weight: normal;
   }
 }
 

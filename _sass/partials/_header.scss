@@ -1,5 +1,5 @@
 .m-logo {
-  width: 130px;
+  width: 90px;
 
   svg {
     width: 100%;
@@ -25,7 +25,7 @@
   &.open {
     span {
       background-color: $m-white;
-      transform: rotate(45deg) translate(11px, 9px);
+      transform: rotate(45deg) translate(6px, 5px);
 
       &:nth-child(2) {
         display: none;
@@ -38,10 +38,10 @@
 
   span {
     height: 2px;
-    width: 40px;
+    width: 30px;
     background-color: $m-black;
     display: block;
-    margin-bottom: 12px;
+    margin-bottom: 6px;
     transition: all ease-in-out 0.2s;
   }
 }

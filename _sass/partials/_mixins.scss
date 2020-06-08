@@ -2,7 +2,7 @@
 
 // A basic button
 @mixin button($btn-bg, $btn-text) {
-  font-weight: $bold-font-weight;
+  font-weight: normal;
   padding: 8px 0.8em;
 	line-height: $base-line-height;
 	color: $btn-text;
@@ -29,4 +29,9 @@
 @mixin font-size($size, $line) {
   font-size: $size;
   line-height: calc(#{$size} * #{$line});
+}
+
+@mixin Uppercase(){
+  text-transform: uppercase;
+  letter-spacing: .5px;
 }
