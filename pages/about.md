@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "A world where "
-subtitle: everyone can make a living from what they love
-meta_description:
+subtitle: everyone can make a living from what they love.
+meta_description: null
 permalink: /about
 section: about
 intro_paragraph: >-
@@ -12,7 +12,7 @@ intro_paragraph: >-
   # This is what we stand for.
 
 
-  ![](/assets/img/uploads/abou2-3.png)
+  ![](/assets/img/uploads/• about-800x800.gif)
 
 
   ## Today, many of us have the chance to turn our passion into our job.
@@ -27,7 +27,7 @@ intro_paragraph: >-
   # Want to know more?
 
 
-  ![](/assets/img/uploads/abou2-1.png)
+  ![](/assets/img/uploads/• about-3-800x800.gif)
 ---
 Macramè was founded in 2004, in north-east Italy, the region well-known for its entrepreneurial spirit.
 
@@ -37,7 +37,7 @@ Today what people want is just a click away. This means that things are fast and
 
 Macramè anticipated the way the world is working today: it’s on-demand and global. Our collaborators are based all over the world, but work together to create fast, affordable communication design solutions.
 
-![](/assets/img/uploads/abou2-2.png)
+![](/assets/img/uploads/• about-2-800x800.gif)
 
 We’ve invested a lot of time and energy in selecting our network. We’ve done it with care and by considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give to our clients. One can’t go without the other.
 
