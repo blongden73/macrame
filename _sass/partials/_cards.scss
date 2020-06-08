@@ -1,5 +1,5 @@
 .m-card, .m-card__article {
-  min-height: 80vh;
+  min-height: 70vh;
   display: block;
   background-color: $m-red;
   margin-bottom: spacing(2);
@@ -8,24 +8,27 @@
   transform: scale(0.96);
   transform-origin: center;
   transition: all ease-in-out 0.5s;
+  overflow: hidden;
 
   h1 {
-    transform: scale(1.1);
-
-    span {
-      font-family: 'helvetica';
-      @include font-size($size-card, 1);
-      margin-top: -10px;
-      font-weight: 100;
-      text-transform: lowercase;
-    }
+    transform: scale(1);
+    max-width: 100%;
+    transform-origin: center;
+    transition: all ease-in-out 0.5s;
+    position: relative;
+    z-index: 10;
   }
 
   h2 {
     @include font-size($base-size, 1);
-    margin-top: spacing(2);
+    margin: spacing(4) 0 spacing(2) 0;
     text-transform: none;
     letter-spacing: 0;
+    padding-bottom: 0;
+
+    span {
+      font-weight: normal;
+    }
 
     &:after {
       display: none;
@@ -38,6 +41,14 @@
 
   &.inview {
     transform: scale(1);
+
+    h1 {
+      transform: scale(1.02);
+    }
+
+    .m-card__illo {
+      transform: scale(1.2);
+    }
   }
 
   .button {
@@ -48,6 +59,8 @@
 
 .m-card__illo {
   width: 100%;
+  transform-origin: center;
+  transition: all ease-in-out 0.5s;
 
   img {
     width: 100%;

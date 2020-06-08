@@ -62,6 +62,7 @@ nav {
     // flexbox is better than grid for distributing an unknown qty of children
     display: flex;
     flex-direction: column;
+    margin-top: spacing(2);
 
     li {
       @include font-size($size-three, 1.25);
@@ -86,6 +87,16 @@ nav {
       }
       a:hover {
         color: white;
+      }
+
+      &:last-child {
+        padding: 0;
+        border: 0;
+        font-family: 'helvetica';
+        position: absolute;
+        bottom: spacing(2);
+        left: spacing(2);
+        font-size: $base-size;
       }
     }
   }

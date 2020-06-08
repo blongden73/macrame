@@ -2,9 +2,11 @@
 
 - text: Stories
   url: /
-- text: About
+- text: About us
   url: /about
-- text: Contact
+- text: Instagram
+  url: https://www.instagram.com/
+- text: Contact us
   url: /contact
 - text: Credits
   url: /credits

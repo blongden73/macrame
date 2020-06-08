@@ -1,14 +1,64 @@
 .about {
+  overflow-x:hidden;
+
   .intro {
     display: none;
   }
 
+  h1 {
+    @include font-size($size-one, 1);
+    max-width: 98%;
+
+    span {
+      @include font-size($size-one, 0.9);
+      text-transform: none;
+    }
+  }
+
+  p + h1 {
+    margin-bottom: spacing(2);
+  }
+
   h1 + h1 {
     font-family: $recoleta;
+    @include font-size($size-one, 0.9);
+
+    & + img {
+      width: 140%;
+      max-width: 140%;
+      margin-left: -20%;
+      margin-top: spacing(5);
+    }
   }
 
   h2 {
+    @include font-size($size-three, 1);
     font-family: $recoleta;
+    text-transform: none;
+    letter-spacing: 0;
+    margin: spacing(3) auto;
+    font-weight: normal;
+    padding-bottom: 0;
+    max-width: 90%;
+
+    &:after {
+      display: none;
+    }
+  }
+
+  img + h2 + h2 + h2 {
+    margin-bottom: spacing(6);
+
+    & + h1 {
+      @include font-size($size-two, 1);
+      font-weight: 900;
+      position: relative;
+      z-index: 10;
+    }
+
+    & + h1 + img {
+      margin-top: spacing(-8);
+    }
   }
 
   p {

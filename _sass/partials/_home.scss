@@ -15,6 +15,7 @@ main {
       font-family: $recoleta;
       display: block;
       font-weight: bold;
+      text-transform: capitalize;
     }
   }
 
@@ -34,6 +35,14 @@ main {
       background-image: url('/assets/img/uploads/downarrow.png');
       background-size: cover;
       background-repeat: no-repeat;
+      transform: rotate(45deg);
+    }
+
+    &.no-after {
+      padding: 0;
+      &:after {
+        display: none;
+      }
     }
   }
 
