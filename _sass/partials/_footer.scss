@@ -6,12 +6,16 @@
 
   h1 {
     color: $m-white;
-    font-family: $recoleta;
-    @include font-size($size-two, 1);
+    font-family: $helvetica;
+    @include font-size($size-two, 1.1);
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
     font-weight: normal;
+
+    strong {
+      font-family: $recoleta;
+    }
   }
 
   p {

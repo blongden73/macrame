@@ -1,6 +1,6 @@
 .about {
   overflow-x:hidden;
-  padding: spacing(4) spacing(1) 0 spacing(1);
+  padding: spacing(4) spacing(2) 0 spacing(2);
 
   .intro {
     display: none;
@@ -48,7 +48,7 @@
   }
 
   img + h2 + h2 + h2 {
-    margin-bottom: spacing(6);
+    margin-bottom: spacing(4);
 
     & + h1 {
       @include font-size($size-two, 1);
@@ -59,6 +59,7 @@
 
     & + h1 + img {
       margin-top: spacing(-8);
+      width: 100%;
     }
   }
 
@@ -66,5 +67,11 @@
     @include font-size($base-size, 1.25);
     font-family: $helvetica;
     text-align:left;
+
+    img {
+      width: 140%;
+      max-width: 140%;
+      margin-left: -20%;
+    }
   }
 }
