@@ -195,7 +195,7 @@ sections:
     skills.
 
 
-    He could do a lot for Independiente and he knew it. That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
+    **He could do a lot for Independiente and he knew it.** That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
 
 
     ![Martin Laksman 13](/assets/img/uploads/img12.jpg)
@@ -225,7 +225,7 @@ sections:
 
     >
 
-    > * On younger generations
+    > * On new generations
 
 
     **But football is not his only passion.** He’s also deeply involved with the Universidad de Buenos Aires , where he is and associate professor, consults and even helped create the new Post-Graduate course. And all of that might be because he really understands new creative generations: “They are different. They live different. They consume different. And we must adapt ourselves to them. The content must be adapted to their reality”.
@@ -255,12 +255,16 @@ sections:
     > * On Macrame network
 
 
-    **Talking about Macramé,** the question now would be, how a football fan who teaches university studies and creates top of the class illustration and design work started collaborating with Macramé?\
+    **Talking about Macramé,** the question now would be, how a football fan who teaches university studies and creates top of the class illustration and design work started collaborating with Macramé
+
 
     **The answer is more or less the same one as in all other Macramé collaborators network cases.** He worked with a guy, who worked with a guy. They became friends and they recruited him. A story we can see repeats itself on most of the talented collaborators we could see here.
 
 
-    A story of passion for doing awesome work and sharing values. That’s the story of this goalkeeper with skilful hands. That’s the story of Martin Laksman.
+    A story of passion for doing awesome work and sharing values. That’s the story of this goalkeeper with skilful hands. 
+
+
+    That’s the story of Martin Laksman.
   clients:
     client: /assets/img/uploads/group-11.png
 working: Illustrator Art Director Club Atletico Independiente
