@@ -102,7 +102,7 @@ logo: <svg width="220" height="80" viewBox="0 0 220 80" fill="none"
   6.165V70.22h-5.018V49.515z" fill="#000"/></svg>
 colour: "#FF5C5A"
 illustration: /assets/img/uploads/• goalie-800x800.gif
-intro_paragraph: "**Martín Laksman**, or the goalkeeper, that used his hands to
+intro_paragraph: "**Martín Laksman**, or the goalkeeper, that used his hands to
   draw all his games."
 sections:
   section: >-
