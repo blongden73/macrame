@@ -82,4 +82,5 @@ logo: <svg width="265" height="63" viewBox="0 0 265 63" fill="none"
   38.05v24.263h-2.757V38.05h-8.924l.306-2.441h19.993l.306 2.441h-8.924z"
   fill="#000"/></svg>
 colour: "#5FA1FF"
+illustration: /assets/img/uploads/• spacial-800x800.gif
 ---
