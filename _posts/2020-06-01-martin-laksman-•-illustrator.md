@@ -123,7 +123,7 @@ sections:
 
     >
 
-    > * On Childhood dreams
+    > * On Childhood Dreams
 
 
     ![Martin Laksman 1](/assets/img/uploads/img1.jpg)
