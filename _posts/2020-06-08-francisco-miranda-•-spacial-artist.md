@@ -2,7 +2,7 @@
 layout: post
 title: Francisco Miranda • Spacial artist
 name: The spacial artist
-subname: behind the engineering of art
+subname: behind the engineering of art
 logo: <svg width="265" height="63" viewBox="0 0 265 63" fill="none"
   xmlns="http://www.w3.org/2000/svg"><path d="M110.176
   2.442v24.264h-2.758V2.442h-8.924L98.801 0h19.992l.307 2.442h-8.924zM141.038
