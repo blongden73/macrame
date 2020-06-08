@@ -187,11 +187,12 @@ sections:
 
     >
 
-    > * On sport and design
+    > * On sport & design
   section3: >-
-    That and his beloved Club Atlético Independiente. The football club of his
-    dreams. The football club he’s playing for right now. In a way. His love for
-    the club made him reach the marketing department and offer them his skills.
+    **That and his beloved Club Atlético Independiente. The football club of his
+    dreams.** The football club he’s playing for right now. In a way. His love
+    for the club made him reach the marketing department and offer them his
+    skills.
 
 
     He could do a lot for Independiente and he knew it. That’s why we can say it’s one of his most important clients right now. And a source of daily inspiration and motivation. Actually the devil’s illustration on Independiente ’s jersey is one of the many works of Martin Laksman for the club.
