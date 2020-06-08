@@ -74,7 +74,7 @@ logo: <svg width="260" height="62" viewBox="0 0 260 62" fill="none"
   1.16.72 2.12v17.04c0 3.96-1.52 4.08-1.56 4.08v.44h10.96v-.44c-.04
   0-1.56-.12-1.56-4.08z" fill="#000"/></svg>
 colour: "#FFE200"
-illustration: /assets/img/uploads/dreamer.png
+illustration: /assets/img/uploads/• dreamer-800x800.gif
 intro_paragraph: "**Fer Cozzi**, the figure-skater-dreamer who who wrote her
   story with her own fonts."
 sections:
