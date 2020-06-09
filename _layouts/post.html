@@ -4,7 +4,9 @@ layout: default
 {% assign author = site.data.authors[page.author] %}
 
 <div class="m-card__article" style="background-color:{{ page.colour }}">
+  <div class="m-card_inner">
   {% include card-content.html %}
+  </div>
 </div>
 
 {% assign sections = page.sections %}

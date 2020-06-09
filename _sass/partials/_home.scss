@@ -60,4 +60,11 @@ main {
 
 .m-home__intro {
   min-height: 60vh;
+
+  @include mq($from: desktop) {
+    max-width: 600px;
+    min-height: 45vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

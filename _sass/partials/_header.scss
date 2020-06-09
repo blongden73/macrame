@@ -1,6 +1,10 @@
 .m-logo {
   width: 90px;
 
+  @include mq($from: desktop) {
+    width: 130px;
+  }
+
   svg {
     width: 100%;
     height: auto;

@@ -10,10 +10,11 @@ layout: default
 
     <h2>Discover their stories</h2>
 </div>
-{% for post in site.posts limit:5 %}
-  <div class="m-card" style="background-color:{{ post.colour }}">
-    {% include card-content.html %}
-  </div>
-{% endfor %}
-
+<div class="m-cards_wrapper">
+  {% for post in site.posts limit:5 %}
+    <div class="m-card" style="background-color:{{ post.colour }}">
+      {% include card-content.html %}
+    </div>
+  {% endfor %}
+</div>
 <h2 class="no-after">and many more</h2>
