@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h1"}
       - {label: "Meta Description", name: "meta_description", widget: "string", required: false}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
+      - {label: "Section", name: "section", widget: "hidden", default: "{{title}}"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Footer", name: "footer", widget: "markdown", tagname: "h2", required: false}
