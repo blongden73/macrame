@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Credits
-subtitle: Meet  The  Website Knots
-section: "{{name}}"
+subtitle: Meet The Website Knots
+section: credits
 intro_paragraph: As in every **Macramè Network** project, our web is the result
   of a group of talented people working together.
 footer: |-
@@ -14,7 +14,7 @@ footer: |-
 
   # **Fernanda Cozzi**
 
-  # If you would like to **discuss a project or say hi** 
+  # If you would like to **discuss a project or say hi**
 
   then please get in touch, we would love to hear from you.
 ---
@@ -24,7 +24,7 @@ footer: |-
 
 Fede is an awarded Executive Creative Director with over 15 years of experience in the advertising industry.
 
-Along his career he's worked for some of the top agencies and brands in the world, creating engaging stories to connect with different audiences. 
+Along his career he's worked for some of the top agencies and brands in the world, creating engaging stories to connect with different audiences.
 
 Right now he runs his own creative shop, also working as a consultant for different brands and agencies.
 
