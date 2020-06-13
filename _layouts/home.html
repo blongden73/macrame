@@ -12,8 +12,10 @@ layout: default
 </div>
 <div class="m-cards_wrapper">
   {% for post in site.posts limit:5 %}
-    <div class="m-card" style="background-color:{{ post.colour }}">
-      {% include card-content.html %}
+    <div class="m-card__wrapper">
+      <div class="m-card" style="background-color:{{ post.colour }}">
+        {% include card-content.html %}
+      </div>
     </div>
   {% endfor %}
 </div>
