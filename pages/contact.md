@@ -1,15 +1,19 @@
 ---
 layout: contact
-title: Contact
+title: We are here!
+subtitle: " "
 permalink: /contact
 section: contact
-intro_paragraph: |-
+intro_paragraph: If you would like t**o commission or discuss a project in
+  detail,** please get in touch.
+footer: >-
+  # If you're a designer and would like **to submit your portfolio,**we would
+  love to hear from you
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+
+  **[submissions@macrame.tv](mailto:submissions@macrame.tv**)**
+
+
+  We receive a high volume of submissions, so please don’t be upset if you don’t hear back from us.
 ---
-
-**Send us a message**
+**[hello@macrame.tv](mailto:hello@macrame.tv)**
