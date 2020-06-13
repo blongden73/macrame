@@ -8,11 +8,11 @@ intro_paragraph: As in every **Macramè Network** project, our web is the result
 footer: |-
   ### Special thanks
 
-  # **Lucas Daglio**
+  #### **Lucas Daglio**
 
-  # **Goran Mimica**
+  #### **Goran Mimica**
 
-  # **Fernanda Cozzi**
+  #### **Fernanda Cozzi**
 
   # If you would like to **discuss a project or say hi**
 
@@ -20,7 +20,7 @@ footer: |-
 ---
 ### **Stories by**
 
-# **Federico Stöltzing**
+#### **Federico Stöltzing**
 
 Fede is an awarded Executive Creative Director with over 15 years of experience in the advertising industry.
 
@@ -32,7 +32,7 @@ Right now he runs his own creative shop, also working as a consultant for differ
 
 ### Website and Illustrations by
 
-# **Estefi Panizza**
+#### **Estefi Panizza**
 
 Estefi is a graphic designer based in London and specialized in branding, editorial design and digital.
 
@@ -40,9 +40,7 @@ Also known as “The Queen of Colour” she's worked for international agencies 
 
 **[estefi-panizza.com](estefi-panizza.com)**
 
-###  
-
-# **Ben Longden**
+#### **Ben Longden**
 
 Ben is a graphic designer and creative coder who has worked both agency and client side. Currently working as the digital design director at The Guardian, this part-time doodler, has 10 years experience in branding, editorial and digital design.
 
