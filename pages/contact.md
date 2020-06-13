@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: We are here!
+title: " "
 subtitle: We are here!
 permalink: /contact
 section: contact
