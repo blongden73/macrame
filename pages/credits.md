@@ -2,7 +2,7 @@
 layout: page
 title: Credits
 subtitle: Meet  The Website Knots
-permalink: /contact
+permalink: /credits
 intro_paragraph: As in every **Macramè Network** project, our web is the result
   of a group of talented people working together.
 footer: |-
