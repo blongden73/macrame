@@ -10,11 +10,55 @@ layout: default
 
     <h2>Discover their stories</h2>
 </div>
+
 <div class="m-cards_wrapper">
   {% for post in site.posts limit:5 %}
     <div class="m-card__wrapper">
       <div class="m-card" style="background-color:{{ post.colour }}">
         {% include card-content.html %}
+      </div>
+      <div class="m-fake__article">
+        {% assign sections = post.sections %}
+
+        <section class="m-story__section drop-cap">
+          {{sections.section | pretty | markdownify | replace: '\', '' }}
+        </section>
+        <section class="m-story__section" style="background-color:{{ post.colour }}">
+          {{sections.section2 | pretty | markdownify | replace: '\', '' }}
+        </section>
+        <section class="m-story__section">
+          {{sections.section3 | pretty | markdownify | replace: '\', ''}}
+        </section>
+        <section class="m-story__section" style="background-color:{{ post.colour }}">
+          {{sections.section4 | pretty | markdownify | replace: '\', ''}}
+        </section>
+        <section class="m-story__section">
+          {{sections.section5 | pretty | markdownify | replace: '\', ''}}
+        </section>
+
+        {% assign clients = post.sections.clients %}
+
+        <section class="m-story__clients">
+          <h3>Clients</h3>
+          <img src="{{clients.client}}">
+        </section>
+        <div class="divider">
+          <img src="/assets/img/uploads/squiggle-1.png">
+        </div>
+        <section class="m-story__bio">
+          <h3>Working</h3>
+          {{post.working | markdownify | replace: '\', ''}}
+          <h3>Living</h3>
+          {{post.living | markdownify | replace: '\', ''}}
+          <h3>Teaching</h3>
+          {{post.teaching | markdownify | replace: '\', ''}}
+          <h3>Awards</h3>
+          {{post.awards | markdownify | replace: '\', ''}}
+          <h3>Website</h3>
+          {{post.website | markdownify | replace: '\', ''}}
+          <h3>Instagram</h3>
+          {{post.imstagram | markdownify | replace: '\', ''}}
+        </section>
       </div>
     </div>
   {% endfor %}

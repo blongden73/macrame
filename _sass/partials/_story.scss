@@ -18,19 +18,6 @@ main.post {
     }
   }
 
-  p {
-    @include font-size($size-three, 1.1);
-    padding-right: spacing(4);
-    padding-left: spacing(4);
-    font-family: $recoleta;
-
-    @include mq($from: desktop) {
-      max-width: 80%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-
   .m-card__illo {
     width: 110%;
     max-width: 120%;

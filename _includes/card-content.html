@@ -4,6 +4,10 @@
   {% assign title = post.title | split: '•' %}
   <h2>{{ title[0] }} • <span>{{ title[1] }}</span></h2>
   <a href="{{ post.url }}"><span class="button">Read the story</span></a>
+  <div class="m-fake__standfirst">
+    <p class="m-story__of">The story of</p>
+    {{ post.intro_paragraph | markdownify }}
+  </div>
 {% endif %}
 {% if page.layout == 'post' %}
   <h1>{{ page.logo }}</h1>

@@ -4,6 +4,21 @@ main {
 
   &.home {
     padding: spacing(4) spacing(1) 0 spacing(1);
+
+    &.transition {
+      padding: 0;
+
+      .m-card {
+        display: none;
+      }
+      
+      .m-home__intro {
+        overflow: hidden;
+        height: 0;
+        min-height: 0;
+        transition: all ease-in-out 0.5s;
+      }
+    }
   }
 
   h1 {
