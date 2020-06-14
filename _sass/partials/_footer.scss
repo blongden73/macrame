@@ -13,14 +13,41 @@
     margin-right: auto;
     font-weight: normal;
 
+    @include mq($from: desktop) {
+      max-width: 280px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     strong {
       font-family: $recoleta;
+    }
+  }
+
+  h2, h3, h4 {
+    color: #fff;
+  }
+
+  h4 {
+    font-family: $helvetica;
+    @include font-size($size-two, 1.1);
+    margin: 0;
+    padding: 0;
+
+    & + h4 + h4 {
+      margin-bottom: 40px;
     }
   }
 
   p {
     color: $m-white;
     padding: 0 spacing(4);
+
+    @include mq($from: desktop) {
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 }
 

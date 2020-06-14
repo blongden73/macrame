@@ -1,6 +1,35 @@
+.credits {
+  @include mq($from: desktop) {
+    max-width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h3 {
+    @include font-size($size-five, 1);
+    line-height: calc(14px * 1);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    margin-top: 20px;
+  }
+
+  h4 {
+    @include font-size($size-two, 1);
+    font-weight: 900;
+    position: relative;
+    z-index: 10;
+  }
+}
+
 .about {
   overflow-x:hidden;
   padding: spacing(4) spacing(2) 0 spacing(2);
+
+  @include mq($from: desktop) {
+    max-width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
   .intro {
     display: none;

@@ -73,6 +73,19 @@ nav {
       @media screen and (min-width: $screen-sm-min) {
         margin-right: 0;
       }
+
+      &:hover {
+        background-color: #fff;
+
+        a {
+          color: #121212 !important;
+        }
+      }
+
+      @include mq($from: desktop) {
+          @include font-size($size-one, 1.25);
+      }
+
       a,
       a:visited {
         color: white;
