@@ -1,7 +1,7 @@
 ---
 layout: contact
-title: " "
-subtitle: We are here!
+title: We
+subtitle: are here!
 permalink: /contact
 section: contact
 intro_paragraph: If you would like t**o commission or discuss a project in
