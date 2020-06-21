@@ -86,6 +86,8 @@ nav {
 
       &:hover {
         background-color: #fff;
+        -webkit-animation: wobble-hor-bottom 0.8s both;
+  	    animation: wobble-hor-bottom 0.8s both;
 
         a {
           color: #121212 !important;
@@ -93,7 +95,7 @@ nav {
       }
 
       @include mq($from: desktop) {
-          @include font-size($size-one, 1.25);
+          @include font-size(calc(#{$size-one} - 10px), 1.25);
       }
 
       a,
@@ -120,6 +122,15 @@ nav {
         bottom: spacing(2);
         left: spacing(2);
         font-size: $base-size;
+
+        &:hover {
+          background-color: transparent;
+          animation: none;
+
+          a {
+            color: $m-red !important;
+          }
+        }
       }
     }
   }

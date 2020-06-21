@@ -1,8 +1,8 @@
 <footer>
-  <div class="button"><a href="/about">About us</a></div>
-  <div class="button"><a href="/contact">Contact us</a></div>
+  {% if page.section != 'about' %}<div class="button"><a href="/about">About us</a></div>{% endif %}
+  {% if page.section != 'contact' %}<div class="button"><a href="/contact">Contact us</a></div>{% endif %}
   {% include logo-mini.html %}
-  <div class="m-credits"><h2><a href="/credits">Credits</a></h2></div>
+  {% if page.section != 'credits' %}<div class="m-credits"><h2><a href="/credits">Credits</a></h2></div>{% endif %}
   <small>© Macramè. All rights reserved. P.I. 000000000</small>
 </footer>
 <script src="/assets/uikit.min.js"></script>

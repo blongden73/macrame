@@ -19,6 +19,14 @@
     position: relative;
     z-index: 10;
   }
+
+  &  >  p {
+    font-size: $size-three;
+    line-height: calc($size-three * 1.2);
+    font-family: "recoleta";
+    color: #121212;
+    padding: calc(10px * 2);
+  }
 }
 
 .about {
@@ -40,7 +48,7 @@
     max-width: 98%;
 
     span {
-      @include font-size($size-one, 0.9);
+      @include font-size($size-one, 1.2);
       font-size: calc(#{$size-one} + 6px);
       text-transform: none;
     }
@@ -85,6 +93,12 @@
       font-weight: 900;
       position: relative;
       z-index: 10;
+      margin-top: spacing(6);
+      margin-bottom: spacing(6);
+
+      @include mq($from: desktop) {
+        margin-bottom: spacing(-12);
+      }
     }
 
     & + h1 + img {
@@ -97,6 +111,10 @@
     @include font-size($base-size, 1.25);
     font-family: $helvetica;
     text-align:left;
+
+    @include mq($from: desktop) {
+      @include font-size($size-four, 1.35);
+    }
 
     img {
       width: 140%;
