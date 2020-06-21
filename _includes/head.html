@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>{{site.title}}</title>
-</head>
-<head>
-  <meta charset="utf-8">
+<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.section == "home" %}
     <title>{{ site.title }}</title>
@@ -20,10 +14,14 @@
   {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}
   {% endif %}
-  <meta property="og:title" content="{{site.title}}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{site.url}}" />
   <script async src="/assets/main.js"></script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
+  <meta property="og:type" content="website" />
+  {% if page.layout == 'post' %}
+  <meta property="og:url" content="{{site.url}}/{{page.permalink}}" />
+  <meta property="og:title" content="{{page.title}} | Macrame Network" />
+  {% endif %}
+  {% if page.layout != 'post' %}
+  <meta property="og:url" content="{{site.url}}/{{page.permalink}}" />
+  <meta property="og:title" content="{{page.title}} | Macrame Network" />
+{% endif %}

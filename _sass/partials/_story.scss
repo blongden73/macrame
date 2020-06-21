@@ -173,7 +173,15 @@ main.post {
   }
 }
 
+.m-story__bio {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .m-story__clients {
+  margin-bottom: spacing(8);
+
   h3 {
     width: max-content;
     margin-left: auto;
