@@ -179,6 +179,7 @@ main.post {
     margin-left: auto;
     margin-right: auto;
     @include font-size($base-size, 1.25);
+    margin-bottom: spacing(4);
 
     &:after {
       width: 100%;
@@ -187,6 +188,29 @@ main.post {
       height: 2px;
       background-image: url('/assets/img/uploads/line.png');
       mix-blend-mode: multiply;
+    }
+  }
+
+  .clients-inner {
+    display: flex;
+    flex-direction: column;
+
+    @include mq($from: desktop) {
+      flex-direction: row;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      -webkit-filter: grayscale(1);
+      filter: grayscale(1) contrast(1.2) brightness(0.5);
+      flex-basis: 50%;
+      width: 50%;
+
+      @include mq($from: desktop) {
+        flex-basis: 10%;
+        width: 10%;
+      }
     }
   }
 }
