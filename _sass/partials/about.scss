@@ -1,4 +1,4 @@
-.credits {
+.credits, .contact {
   @include mq($from: desktop) {
     max-width: 660px;
     margin-left: auto;

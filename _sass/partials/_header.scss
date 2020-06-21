@@ -5,6 +5,15 @@
     width: 130px;
   }
 
+  a {
+    text-decoration: none;
+    border-bottom: none;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   svg {
     width: 100%;
     height: auto;

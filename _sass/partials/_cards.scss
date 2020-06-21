@@ -1,3 +1,24 @@
+//animation general
+
+@keyframes fadeIn{
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 0.75s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
 .m-cards_wrapper {
   @include mq($from: desktop) {
     display: flex;
@@ -28,6 +49,20 @@
 
   .display & {
     display: block;
+  }
+}
+
+//animation styles
+.m-card{
+  h1, .m-card__illo, h2, a{
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  &.inview {
+    h1, .m-card__illo, h2, a{
+        opacity: 1;
+    }
   }
 }
 
@@ -153,6 +188,13 @@
   }
   &:last-child {
     margin-bottom: 0;
+  }
+
+  &:hover {
+    .button {
+      background-color: #121212;
+      color: #fff;
+    }
   }
 }
 

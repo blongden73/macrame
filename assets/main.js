@@ -52,11 +52,15 @@ function elementInViewport(el) {
   );
 }
 
+
 function cards(){
   var cards = document.querySelectorAll('.m-card');
   document.addEventListener('scroll', function(){
     for(i = 0; i < cards.length; i++){
-      if(elementInViewport(cards[i])){
+      var bouding = cards[i].getBoundingClientRect();
+      var screenHeight = window.innerHeight;
+      console.log(bouding.top, screenHeight / 3);
+      if(bouding.top <= screenHeight / 3) {
         cards[i].classList.add('inview');
       } else {
         cards[i].classList.remove('inview');
@@ -98,8 +102,4 @@ function mobileAnimation(){
 function init(){
   nav();
   cards();
-  if( isMobile.any() ) {
-    console.log('mobile');
-    mobileAnimation();
-  }
 }init();
