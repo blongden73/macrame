@@ -2,7 +2,7 @@
   @include mq($from: desktop) {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1100px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -69,11 +69,9 @@
 
 @keyframes illoFade {
   0%{
-    transform: scale(0.8);
     opacity: 0;
   }
   100% {
-    transform: scale(1);
     opacity: 1;
   }
 }
@@ -244,7 +242,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    z-index: 10;
+    z-index: 100;
   }
 }
 
@@ -253,7 +251,7 @@
   margin-left: auto;
   margin-right: auto;
   transform-origin: center;
-  transition: all ease-in-out 0.5s;
+  // transition: all ease-in-out 0.5s;
 
   @include mq($from: desktop) {
     width: 80%;

@@ -15,6 +15,7 @@
       <meta name="description" content="{{ page.meta_description }}">
     {% endif %}
   {% endif %}
+  <link rel="stylesheet" href="{{ "/assets/uikit.min.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}

@@ -81,6 +81,8 @@ main {
 
     &.no-after {
       padding: 0;
+      margin-top: 40px;
+
       &:after {
         display: none;
       }

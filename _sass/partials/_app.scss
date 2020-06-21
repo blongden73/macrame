@@ -8,6 +8,7 @@
 // the body element is our primary layout grid
 body {
   display: block;
+  color: #121212;
 }
 
 // header, the first grid row
@@ -17,6 +18,15 @@ header {
   flex-direction: row;
   justify-content: space-between;
   padding: spacing(2);
+}
+
+::selection {
+  color: #121212;
+  background-color: $m-orange;
+}
+
+h1, h2, h3, h4, h5, p, blockquote {
+  color: #121212;
 }
 
 // logo, is a grid item

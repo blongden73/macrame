@@ -11,32 +11,32 @@ layout: default
 
 {% assign sections = page.sections %}
 
-<section class="m-story__section drop-cap">
+<section class="m-story__section drop-cap" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
   {{sections.section | pretty | markdownify | replace: '\', '' }}
 </section>
-<section class="m-story__section" style="background-color:{{ page.colour }}">
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p , > blockquote; cls: uk-animation-fade; delay: 200">
   {{sections.section2 | pretty | markdownify | replace: '\', '' }}
 </section>
-<section class="m-story__section">
+<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
   {{sections.section3 | pretty | markdownify | replace: '\', ''}}
 </section>
-<section class="m-story__section" style="background-color:{{ page.colour }}">
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
   {{sections.section4 | pretty | markdownify | replace: '\', ''}}
 </section>
-<section class="m-story__section">
+<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
   {{sections.section5 | pretty | markdownify | replace: '\', ''}}
 </section>
 
 {% assign clients = page.sections.clients %}
 
-<section class="m-story__clients">
+<section class="m-story__clients" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 200">
   <h3>Clients</h3>
   <img src="{{clients.client}}">
 </section>
 <div class="divider">
   <img src="/assets/img/uploads/squiggle-1.png">
 </div>
-<section class="m-story__bio">
+<section class="m-story__bio" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 200">
   <h3>Working</h3>
   {{page.working | markdownify | replace: '\', ''}}
   <h3>Living</h3>
