@@ -56,6 +56,17 @@
   }
 }
 
+@keyframes titleFadeDesktop {
+  0%{
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 1;
+  }
+}
+
 @keyframes illoFade {
   0%{
     transform: scale(0.8);
@@ -76,6 +87,10 @@
     animation-timing-function: ease-in-out;
     animation-delay: 1s;
     animation-fill-mode: forwards;
+
+    @include mq($from: desktop) {
+      animation-name: titleFadeDesktop;
+    }
   }
   .m-card__illo {
     opacity: 0;
