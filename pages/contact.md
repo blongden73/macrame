@@ -11,6 +11,6 @@ footer: We receive a high volume of submissions, so please don’t be upset if y
 ---
 **[hello@macrame.tv](mailto:hello@macrame.tv)**
 
-# If you're a designer and would like **to submit your portfolio,**we would love to hear from you
+## If you're a designer and would like **to submit your portfolio,**we would love to hear from you
 
-**\[submissions@macrame.tv](mailto:submissions@macrame.tv**)\*\*
+**[submissions@macrame.tv](mailto:submissions@macrame.tv)**
