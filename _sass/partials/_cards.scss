@@ -185,6 +185,8 @@
   .button {
     font-size: $size-four;
     font-weight: normal;
+    display: inline-block;
+    transition: all ease-in-out 0.5s;
   }
 }
 
@@ -231,6 +233,8 @@
     .button {
       background-color: #121212;
       color: #fff;
+      -webkit-animation: wobble-hor-bottom 0.8s both;
+	    animation: wobble-hor-bottom 0.8s both;
     }
   }
 
