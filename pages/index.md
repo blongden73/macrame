@@ -7,8 +7,12 @@ section: home
 intro_paragraph: We look back and celebrate the talent that allowed us to become
   a company that we are today.
 footer: >-
-  # If you would like to **discuss a project or say Hi.** 
+  # We believe in a world where everyone  can make a living from what they
+  love.**
 
 
-  Since 2004, we support people with a vision  and those who strive to make it happen.
+  Macramè Network is a graphic design agency that builds unique teams for every new brief by working with a vast network of skilled professionals.
+
+
+  Nothing pleases us more than matching the right team with the right project.
 ---
