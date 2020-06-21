@@ -1,24 +1,3 @@
-//animation general
-
-@keyframes fadeIn{
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-body {
-  opacity: 0;
-  animation-name: fadeIn;
-  animation-duration: 0.75s;
-  animation-iteration-count: 1;
-  animation-timing-function: ease-in-out;
-  animation-delay: 0.5s;
-  animation-fill-mode: forwards;
-}
-
 .m-cards_wrapper {
   @include mq($from: desktop) {
     display: flex;
@@ -63,6 +42,49 @@ body {
     h1, .m-card__illo, h2, a{
         opacity: 1;
     }
+  }
+}
+
+@keyframes titleFade {
+  0%{
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes illoFade {
+  0%{
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.m-card__article {
+  h1 {
+    opacity: 0;
+    animation-name: titleFade;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+  }
+  .m-card__illo {
+    opacity: 0;
+    animation-name: illoFade;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1.1s;
+    animation-fill-mode: forwards;
   }
 }
 

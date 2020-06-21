@@ -1,3 +1,24 @@
+//animation general
+
+@keyframes fadeIn{
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 0.75s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
 main {
   text-align: center;
   padding: spacing(4) spacing(1);
@@ -11,7 +32,7 @@ main {
       .m-card {
         display: none;
       }
-      
+
       .m-home__intro {
         overflow: hidden;
         height: 0;
@@ -30,6 +51,7 @@ main {
     font-weight: normal;
 
     span {
+      font-size: calc(#{$size-zero} + 6px);
       line-height: calc(#{$size-zero} - 10px);
       font-family: $recoleta;
       display: block;

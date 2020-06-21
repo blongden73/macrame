@@ -41,6 +41,7 @@
 
     span {
       @include font-size($size-one, 0.9);
+      font-size: calc(#{$size-one} + 6px);
       text-transform: none;
     }
   }
