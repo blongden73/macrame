@@ -37,16 +37,28 @@ layout: default
   <img src="/assets/img/uploads/squiggle-1.png">
 </div>
 <section class="m-story__bio" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 200">
-  <h3>Working</h3>
-  {{page.working | markdownify | replace: '\', ''}}
-  <h3>Living</h3>
-  {{page.living | markdownify | replace: '\', ''}}
-  <h3>Teaching</h3>
-  {{page.teaching | markdownify | replace: '\', ''}}
-  <h3>Awards</h3>
-  {{page.awards | markdownify | replace: '\', ''}}
-  <h3>Website</h3>
-  {{page.website | markdownify | replace: '\', ''}}
-  <h3>Instagram</h3>
-  {{page.imstagram | markdownify | replace: '\', ''}}
+  {% if page.working %}
+    <h3>Working</h3>
+    {{page.working | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.living %}
+    <h3>Living</h3>
+    {{page.living | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.teaching %}
+    <h3>Teaching</h3>
+    {{page.teaching | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.awards %}
+    <h3>Awards</h3>
+    {{page.awards | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.awards %}
+    <h3>Website</h3>
+    <a target="_blank" href="http://www.{{page.website}}">{{page.website | markdownify | replace: '\', ''}}</a>
+  {% endif %}
+  {% if page.imstagram %}
+    <h3>Instagram</h3>
+    <a target="_blank" href="http://www.instagram.com/{{page.imstagram}}">{{page.imstagram | markdownify | replace: '\', ''}}</a>
+  {% endif %}
 </section>
