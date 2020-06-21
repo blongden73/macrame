@@ -41,6 +41,10 @@ collections: # A list of collections the CMS should be able to edit
           collapsed: true
           fields:
           - {label: "Client", name: "client", widget: "image", required: false}
+          - {label: "Client", name: "client", widget: "image", required: false}
+          - {label: "Client", name: "client", widget: "image", required: false}
+          - {label: "Client", name: "client", widget: "image", required: false}
+          - {label: "Client", name: "client", widget: "image", required: false}
       - {label: "Working", name: "working", widget: "string", tagname: "h3", required: false}
       - {label: "Living", name: "living", widget: "string", tagname: "h3", required: false}
       - {label: "Teaching", name: "teaching", widget: "markdown", tagname: "h3", required: false}
