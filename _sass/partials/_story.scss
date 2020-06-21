@@ -11,6 +11,7 @@ main.post {
   h1 {
     transform: scale(1.1);
     margin-top: spacing(2);
+    margin-bottom: spacing(3);
 
     @include mq($from: desktop) {
       transform: scale(1.5);
