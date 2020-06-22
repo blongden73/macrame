@@ -84,11 +84,11 @@ main.post {
     margin-right: auto;
 
     &:before {
-      background-image: url('/assets/img/uploads/speechmark-1.png');
+      background-image: url('/assets/img/uploads/quotes.png');
       content: '';
       display: block;
-      width: 28px;
-      height: 26px;
+      width: 35px;
+      height: 33px;
       margin-bottom: 10px;
       background-size: cover;
       margin-left: auto;
@@ -109,9 +109,11 @@ main.post {
           width: 100%;
           display: block;
           content: '';
-          height: 2px;
-          background-image: url('/assets/img/uploads/line.png');
+          height: 10px;
+          background-image: url('/assets/img/uploads/line_under.png');
           mix-blend-mode: multiply;
+          background-size: cover;
+          background-repeat: no-repeat;
         }
       }
     }
@@ -196,9 +198,11 @@ main.post {
       width: 100%;
       display: block;
       content: '';
-      height: 2px;
-      background-image: url('/assets/img/uploads/line.png');
+      height: 5px;
+      background-image: url('/assets/img/uploads/line_under.png');
       mix-blend-mode: multiply;
+      background-size: cover;
+      background-repeat: no-repeat;
     }
   }
 

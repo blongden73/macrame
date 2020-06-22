@@ -60,6 +60,20 @@ main {
     }
   }
 
+@keyframes down {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  75% {transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
   h2 {
     @include font-size($size-five, 1);
     @include Uppercase;
@@ -68,15 +82,17 @@ main {
     &:after {
       content: '';
       display: block;
-      height: 40px;
+      height: 54px;
       width: 30px;
       margin-top: 20px;
       margin-left: auto;
       margin-right: auto;
-      background-image: url('/assets/img/uploads/downarrow.png');
-      background-size: cover;
+      background-image: url('/assets/img/uploads/arrow_down.png');
+      background-size: contain;
       background-repeat: no-repeat;
-      transform: rotate(45deg);
+      animation-name: down;
+      animation-duration: 1s;
+      animation-iteration-count: infinite;
     }
 
     &.no-after {
