@@ -11,7 +11,7 @@ layout: compress
 
     {% include header.html %}
 
-    <main class="{{page.section}}" uk-scrollspy="target: > p, h1, h2, img; cls: uk-animation-fade; delay: 200">
+    <main class="{{page.section}}" {% if page.section != 'home' %} uk-scrollspy="target: > p, h1, h2, img; cls: uk-animation-fade; delay: 200" {% endif %}>
 
       {{ content }}
     </main>
