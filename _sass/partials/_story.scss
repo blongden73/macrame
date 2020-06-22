@@ -205,9 +205,22 @@ main.post {
   .clients-inner {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 
     @include mq($from: desktop) {
       flex-direction: row;
+    }
+
+    .logo-wrapper {
+      flex-basis: 50%;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+
+      @include mq($from: desktop) {
+        flex-basis: 10%;
+        width: 10%;
+      }
     }
 
     img {
@@ -215,13 +228,6 @@ main.post {
       height: auto;
       -webkit-filter: grayscale(1);
       filter: grayscale(1) contrast(1.2) brightness(0.2);
-      flex-basis: 50%;
-      width: 50%;
-
-      @include mq($from: desktop) {
-        flex-basis: 10%;
-        width: 10%;
-      }
     }
   }
 }
