@@ -94,7 +94,7 @@
       position: relative;
       z-index: 10;
       margin-top: spacing(6);
-      margin-bottom: spacing(6);
+      margin-bottom: spacing(1);
 
       @include mq($from: desktop) {
         margin-bottom: spacing(-12);
