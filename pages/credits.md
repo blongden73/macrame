@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Credits
-subtitle: Meet  The Website Talents
+title: Meet 
+subtitle: The Website Talents
 permalink: /credits
 section: credits
 intro_paragraph: As in every **Macramè Network** project, our web is the result
