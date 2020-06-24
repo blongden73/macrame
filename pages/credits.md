@@ -7,14 +7,7 @@ section: credits
 intro_paragraph: As in every **Macramè Network** project, our web is the result
   of a group of talented people working together.
 footer: |-
-  ### Special thanks
-
-  #### **Lucas Daglio**
-
-  #### **Goran Mimica**
-
-  #### **Fernanda Cozzi**
-
+  
   # If you would like to **discuss a project or say hi**
 
   then please get in touch, we would love to hear from you.
