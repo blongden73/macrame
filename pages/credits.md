@@ -47,3 +47,5 @@ Ben is a graphic designer and creative coder who has worked both agency and clie
 #### **Goran Mimica**
 
 #### **Fernanda Cozzi**
+
+#### **Wendy Gosselin**
