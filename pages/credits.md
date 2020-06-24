@@ -47,7 +47,7 @@ Ben is a graphic designer and creative coder who has worked both agency and clie
 
 **[benlongdendesign.co.uk](benlongdendesign.co.uk)**
 
-### Special thanks
+### **Special thanks**
 
 #### **Lucas Daglio**
 
