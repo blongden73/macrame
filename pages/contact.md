@@ -6,16 +6,16 @@ permalink: /contact
 section: contact
 intro_paragraph: >-
   If you would like **to commission or discuss a project in detail,** please get
-  in touch.
+  in touch.<br>
 
   **[hello@macrame.tv](mailto:hello@macrame.tv)**
 
 
-  If you're a designer and would like **to submit your portfolio,** we would love to hear from you.
+  If you're a designer and would like **to submit your portfolio,** we would love to hear from you.<br>
 
   **[submissions@macrame.tv](mailto:submissions@macrame.tv)**
 
 
-  <small>We receive a high volume of submissions, so please don’t be upset if you don’t hear back from us.</small>
+  <small>We receive a high volume of submissions, so please don’t be upset if you don’t hear back from us right away.</small>
 footer: ""
 ---
