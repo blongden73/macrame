@@ -17,6 +17,5 @@ intro_paragraph: >-
 
 
   <small>We receive a high volume of submissions, so please don’t be upset if you don’t hear back from us.</small>
-footer: We receive a high volume of submissions, so please don’t be upset if you
-  don’t hear back from us.
+footer: ""
 ---
