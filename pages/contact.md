@@ -1,21 +1,21 @@
 ---
 layout: contact
-title: We
-subtitle: are here!
+title: Here
+subtitle: We Are!
 permalink: /contact
 section: contact
 intro_paragraph: >-
-  If you would like **to commission or discuss a project in detail,** please get
-  in touch.<br>
+  If you would like **to commission or discuss a project,** please get in touch
+  with us at<br>
 
   **[hello@macrame.tv](mailto:hello@macrame.tv)**
 
 
-  If you're a designer and would like **to submit your portfolio,** we would love to hear from you.<br>
+  If you're a designer and would like **to submit your portfolio,** we would love to hear from you at<br>
 
   **[submissions@macrame.tv](mailto:submissions@macrame.tv)**
 
 
-  <small>We receive a high volume of submissions, <br>so please don’t be upset if you don’t hear back from us right away.</small>
+  <small>We receive a high volume of submissions, <br>so please be patient while waiting to hear back from us.</small>
 footer: ""
 ---
