@@ -11,6 +11,9 @@ intro_paragraph: >-
   **[hello@macrame.tv](mailto:hello@macrame.tv)**
 
 
+  ![](/assets/img/uploads/squiggle-1.png)
+
+
   If you're a designer and would like **to submit your portfolio,** we would love to hear from you at<br>
 
   **[submissions@macrame.tv](mailto:submissions@macrame.tv)**
