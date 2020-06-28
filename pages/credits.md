@@ -21,6 +21,8 @@ Over the course of his career, Fed has worked for some of the world's top agenci
 He currently runs his own creative shop and does consulting work for different brands and agencies.<br/>
 **[stoltzing.me](stoltzing.me)**
 
+![](/assets/img/uploads/squiggle-1.png)
+
 ### Website and Illustrations by
 
 #### **Estefi Panizza**
@@ -29,10 +31,14 @@ Estefi is a graphic designer based in London who specializes in branding, editor
 Also known as “The Queen of Color,” she's worked for international agencies such us Design Bridge, Umbrella, and Macramé.<br/>
 **[estefi-panizza.com](estefi-panizza.com)**
 
+![](/assets/img/uploads/squiggle-1.png)
+
 #### **Ben Longden**
 
 Ben is a graphic designer and creative coder who has worked both agency and client side. Currently working as the digital design director at *The Guardian*, this part-time doodler has 10 years' experience in branding and editorial and digital design.<br/>
 **[benlongdendesign.co.uk](benlongdendesign.co.uk)**
+
+![](/assets/img/uploads/squiggle-1.png)
 
 ### **Special thanks**
 
