@@ -12,6 +12,8 @@ footer: |-
 
   then please get in touch, we would love to hear from you.
 ---
+![](/assets/img/uploads/squiggle-1.png)
+
 ### **Stories by**
 
 #### **Federico Stöltzing**
