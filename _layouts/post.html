@@ -23,9 +23,11 @@ layout: default
 <section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section4 | pretty | markdownify | replace: '\', ''}}
 </section>
-<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
-  {{sections.section5 | pretty | markdownify | replace: '\', ''}}
-</section>
+{% if sections.section5 %}
+  <section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
+    {{sections.section5 | pretty | markdownify | replace: '\', ''}}
+  </section>
+{% endif %}
 
 {% assign clients = page.sections.clients %}
 

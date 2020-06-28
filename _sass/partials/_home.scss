@@ -84,7 +84,7 @@ main {
       display: block;
       height: 54px;
       width: 30px;
-      margin-top: 20px;
+      margin-top: spacing(2);
       margin-left: auto;
       margin-right: auto;
       background-image: url('/assets/img/uploads/arrow_down.png');
@@ -97,7 +97,7 @@ main {
 
     &.no-after {
       padding: 0;
-      margin-top: 40px;
+      margin-top: spacing(5);
 
       &:after {
         display: none;

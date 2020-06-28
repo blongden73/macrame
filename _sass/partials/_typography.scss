@@ -71,6 +71,7 @@ strong {
 
 small {
 	font-size: 1rem;
+  line-height: 1;
 }
 
 a,
@@ -89,6 +90,10 @@ a:active {
   text-decoration: none;
   border: 0;
   color: $link-hover-color;
+
+  p {
+    color: $m-red;
+  }
 }
 
 header > h1 {

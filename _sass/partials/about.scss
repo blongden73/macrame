@@ -21,11 +21,21 @@
   }
 
   &  >  p {
-    font-size: $size-three;
-    line-height: calc($size-three * 1.2);
+    @include font-size($size-three, 1.2);
     font-family: "recoleta";
     color: #121212;
     padding: calc(10px * 2);
+  }
+}
+
+.contact, .credits {
+  p {
+    img {
+      width: 80px;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 }
 
@@ -93,8 +103,21 @@
       font-weight: 900;
       position: relative;
       z-index: 10;
-      margin-top: spacing(6);
+      margin-top: spacing(3);
       margin-bottom: spacing(1);
+
+      &:before {
+        background-image: url('/assets/img/uploads/squiggle-1.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: block;
+        content: '';
+        width: 60px;
+        height: 6px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+      }
 
       @include mq($from: desktop) {
         margin-bottom: spacing(-12);
@@ -111,6 +134,10 @@
     @include font-size($base-size, 1.25);
     font-family: $helvetica;
     text-align:left;
+
+    @include mq($from: 400px) {
+      @include font-size($mobile-size, 1.25);
+    }
 
     @include mq($from: desktop) {
       @include font-size($size-four, 1.35);
