@@ -81,7 +81,7 @@
   }
 
   h2 {
-    @include font-size($size-three, 1);
+    @include font-size($size-quote, 1.2);
     font-family: $recoleta;
     text-transform: none;
     letter-spacing: 0;
@@ -147,6 +147,25 @@
       width: 140%;
       max-width: 140%;
       margin-left: -20%;
+    }
+  }
+}
+
+[class="404"] {
+  h2 {
+    font-family: 'recoleta';
+    font-size: $size-card;
+    &:after {
+      display: none;
+    }
+  }
+  p {
+    font-family: 'recoleta';
+    @include font-size($size-four, 1.35);
+
+    &:nth-child(3) {
+      font-family: $helvetica;
+      font-weight: 900;
     }
   }
 }

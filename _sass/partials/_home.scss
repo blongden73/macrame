@@ -110,16 +110,24 @@ main {
     font-family: $recoleta;
     color: #121212;
     padding: spacing(2);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 .m-home__intro {
-  min-height: 60vh;
+  min-height: 30vh;
 
   @include mq($from: desktop) {
     max-width: 600px;
     min-height: 45vh;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: spacing(-6);
+  }
+
+  @include mq($from: wide) {
+    margin-bottom: 0
   }
 }

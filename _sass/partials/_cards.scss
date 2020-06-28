@@ -5,6 +5,7 @@
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
+    justify-content: space-between;
   }
 }
 
@@ -56,6 +57,17 @@
   }
 }
 
+@keyframes titleIpad {
+  0%{
+    transform: scale(1.2) translateY(30px);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.5) translateY(30px);
+    opacity: 1;
+  }
+}
+
 @keyframes titleFadeDesktop {
   0%{
     transform: scale(1.3);
@@ -85,6 +97,10 @@
     animation-timing-function: ease-in-out;
     animation-delay: 1s;
     animation-fill-mode: forwards;
+
+    @include mq($from: tablet) {
+      animation-name: titleIpad;
+    }
 
     @include mq($from: desktop) {
       animation-name: titleFadeDesktop;
@@ -167,6 +183,10 @@
     h1 {
       transform: scale(1.02);
 
+      @include mq($from: tablet) {
+        transform: scale(1.2) translateY(20px);
+      }
+
       @include mq($from: desktop) {
         transform: scale(1);
       }
@@ -174,6 +194,10 @@
 
     .m-card__illo {
       transform: scale(1.3);
+
+      @include mq($from: tablet, $until: desktop) {
+          transform: scale(1.1);
+      }
 
       @include mq($from: desktop) {
         transform: scale(1.2);
@@ -190,7 +214,7 @@
 }
 
 .m-card__wrapper {
-  @include mq($until: tablet) {
+  @include mq($until: desktop) {
     margin-bottom: 20px;
   }
 
@@ -258,6 +282,7 @@
   margin-left: auto;
   margin-right: auto;
   transform-origin: center;
+  margin-top: spacing(4);
   // transition: all ease-in-out 0.5s;
 
 
