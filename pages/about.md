@@ -1,51 +1,49 @@
 ---
 layout: page
-title: "A world where "
-subtitle: everyone can make a living from what they love.
+title: "A World Where "
+subtitle: Everyone Makes a Living Doing What They Love
 meta_description: null
 permalink: /about
 section: about
 intro_paragraph: >-
-  # Simple and possible.
+  # Simple and doable.
 
 
-  # This is what we stand for.
+  # That is our motto.
 
 
   ![](/assets/img/uploads/• about-800x800.gif)
 
 
-  ## Today, many of us have the chance to **turn our passion into our job.**
+  ## There are a lot of us out there who have found the way to **turn our passion into a livelihood.**
 
 
-  ## Macrame Network is made up of people who want to **create fresh, exciting projects.**
+  ## The Macramé Network is a group of people joined by their passion for **fresh, exciting projects.**
 
 
-  ## We like to support people with a vision and those who strive to **make it happen.**
+  ## We look for people who have a vision and strive to make it a reality**.**
 
 
-  # Want to know more?
+  # Want to hear more?
 
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
 footer: >-
-  # If you would like to **discuss a project or say Hi.**
+  # If you would like to **discuss a project or just say hey.**
 
 
-  Since 2004, we support people with a vision  and those who strive to make it happen.
+  Since 2004, we have supported people with a vision who strive to make it a reality.
 ---
-**Macramè was founded in 2004,** in north-east Italy, the region well-known for its entrepreneurial spirit.
+**Macramé was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that would provide communication and design services at reasonable prices.
 
-**Conceived as a network of professionals** with the aim of providing quality communication design services at a fair price.
+**Today most things people seek are just a click away.** This means that things are fast and simple and people expect quality products at a reasonable price.
 
-**Today what people want is just a click away.** This means that things are fast and simple. People expect quality products at a reasonable price.
-
-**Macramè anticipated the way the world is working today:** it’s on-demand and global. Our collaborators are based all over the world, but work together to create fast, affordable communication design solutions.
+**Macramé was a step ahead of this trend:** its services are on-demand and global. Our collaborators are based all over the world but work together to create fast, affordable communication and design solutions.
 
 ![](/assets/img/uploads/• about-2-800x800.gif)
 
-**We’ve invested a lot of time and energy in selecting our network.** We’ve done it with care and by considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give to our clients. One can’t go without the other.
+**We've invested a lot of time and energy in putting together our network.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give our clients because they are equally important.
 
-We can respond to the specific demands of our clients, and find the best solution at a fair price
+We can respond to the specific demands of our clients and find the best solution at a fair price.
 
 That’s what makes us different.
