@@ -94,6 +94,10 @@ nav {
         }
       }
 
+      @include mq($from: tablet) {
+        @include font-size($size-card, 1.25);
+      }
+
       @include mq($from: desktop) {
           @include font-size(calc(#{$size-one} - 10px), 1.25);
       }
