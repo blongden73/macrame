@@ -1,5 +1,5 @@
 .m-logo {
-  width: 90px;
+  width: 120px;
 
   @include mq($from: desktop) {
     width: 130px;
@@ -17,6 +17,11 @@
   svg {
     width: 100%;
     height: auto;
+    transform: translateY(-4px);
+
+    @include mq($from: desktop) {
+      transform: translateY(-7px);
+    }
   }
 
   nav & {

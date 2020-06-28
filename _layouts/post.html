@@ -11,25 +11,25 @@ layout: default
 
 {% assign sections = page.sections %}
 
-<section class="m-story__section drop-cap" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
+<section class="m-story__section drop-cap" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section | pretty | markdownify | replace: '\', '' }}
 </section>
-<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p , > blockquote; cls: uk-animation-fade; delay: 200">
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p , > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section2 | pretty | markdownify | replace: '\', '' }}
 </section>
-<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
+<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section3 | pretty | markdownify | replace: '\', ''}}
 </section>
-<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
+<section class="m-story__section" style="background-color:{{ page.colour }}" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section4 | pretty | markdownify | replace: '\', ''}}
 </section>
-<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 200">
+<section class="m-story__section" uk-scrollspy="target: > p, > blockquote; cls: uk-animation-fade; delay: 100">
   {{sections.section5 | pretty | markdownify | replace: '\', ''}}
 </section>
 
 {% assign clients = page.sections.clients %}
 
-<section class="m-story__clients" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 200">
+<section class="m-story__clients" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 100">
   <h3>Clients</h3>
   <div class="clients-inner flex">
     <div class="logo-wrapper">
@@ -52,7 +52,7 @@ layout: default
 <div class="divider">
   <img src="/assets/img/uploads/squiggle-1.png">
 </div>
-<section class="m-story__bio" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 200">
+<section class="m-story__bio" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 100">
   {% if page.working %}
     <h3>Working</h3>
     {{page.working | markdownify | replace: '\', ''}}

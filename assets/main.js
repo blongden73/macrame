@@ -55,12 +55,13 @@ function elementInViewport(el) {
 
 function cards(){
   var cards = document.querySelectorAll('.m-card');
+  cards[0].classList.add('inview');
   document.addEventListener('scroll', function(){
     for(i = 0; i < cards.length; i++){
       var bouding = cards[i].getBoundingClientRect();
       var screenHeight = window.innerHeight;
-      console.log(bouding.top, screenHeight / 3);
-      if(bouding.top <= screenHeight / 3) {
+      console.log(cards[0].getBoundingClientRect().top, screenHeight / 1.2);
+      if(bouding.top <= screenHeight / 1.2) {
         cards[i].classList.add('inview');
       } else {
         cards[i].classList.remove('inview');

@@ -190,6 +190,10 @@
 }
 
 .m-card__wrapper {
+  @include mq($until: tablet) {
+    margin-bottom: 20px;
+  }
+
   @include mq($from: desktop) {
     max-width: 48%;
   }
@@ -248,15 +252,12 @@
 }
 
 .m-card__illo {
-  width: 230px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   transform-origin: center;
   // transition: all ease-in-out 0.5s;
 
-  @include mq($from: desktop) {
-    width: 80%;
-  }
 
   img {
     width: 100%;
