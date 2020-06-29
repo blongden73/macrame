@@ -46,7 +46,7 @@ As a design agency that curates project teams for every new brief, we have const
 
 **We've invested a lot of time and energy in putting together a close-knit network that knows no time zones.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give our clients because they are equally important.  
 
-Nothing pleases us more than putting together the right team to make a project come to life. 
+Nothing pleases us more than putting together the right team to bring a project to life. 
 
 We can respond to the specific demands of our clients and find the best solution at a fair price.
 
