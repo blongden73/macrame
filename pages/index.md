@@ -11,8 +11,8 @@ footer: >-
   love.**
 
 
-  Macramé Network is a graphic design agency that builds unique teams for each new brief by working with an extensive network of skilled professionals.
+  Macramé Network is a graphic design agency that curates teams for each new brief by working with an extensive network of skilled professionals.
 
 
-  Nothing pleases us more than matching the right team with the right project.
+  Nothing pleases us more than putting together the right team to make a project come together.
 ---
