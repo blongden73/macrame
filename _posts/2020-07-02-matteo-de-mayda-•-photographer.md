@@ -198,8 +198,8 @@ logo: <svg width="260" height="174" viewBox="0 0 260 174" fill="none"
   fill="#000"/></svg>
 colour: "#8C4AD4"
 illustration: /assets/img/uploads/• spacial-800x800.gif
-intro_paragraph: "**Matteo de Mayda**, an italian photographer and dreamer who
-  tells a story through."
+intro_paragraph: "**Matteo de Mayda**, an italian photographer focused on social
+  projects and campaignsmixing sustainability with branded content."
 sections:
   section: |-
     >  "I was born in Treviso in 1984 and I’m based in Venice (Italy)"
