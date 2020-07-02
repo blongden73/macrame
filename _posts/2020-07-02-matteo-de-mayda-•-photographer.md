@@ -196,7 +196,7 @@ logo: <svg width="260" height="174" viewBox="0 0 260 174" fill="none"
   1.287-3.377 1.93-6.123 1.93-2.956
   0-5.053-.668-6.29-2.004-1.225-1.348-1.88-3.012-1.967-4.991h3.21z"
   fill="#000"/></svg>
-colour: "#7A52BB"
+colour: "#8C4AD4"
 illustration: /assets/img/uploads/• spacial-800x800.gif
 intro_paragraph: "**Matteo de Mayda**, an italian photographer and dreamer who
   tells a story through."
