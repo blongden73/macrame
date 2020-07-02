@@ -201,10 +201,13 @@ illustration: /assets/img/uploads/• spacial-800x800.gif
 intro_paragraph: "**Matteo de Mayda**, an italian photographer focused on social
   projects and campaignsmixing sustainability with branded content."
 sections:
-  section: |-
-    >  "I was born in Treviso in 1984 and I’m based in Venice (Italy)"
+  section: >-
+    >  "Behind a great project there is a great process, designed and
+    structured."
+
     >
-    > * On Location
+
+    > * On The Macramé Network
 teaching: ‘16-’19, teacher at the Art History and Performing Arts Department of
   La Sapienza in Rome.
 awards: |-
