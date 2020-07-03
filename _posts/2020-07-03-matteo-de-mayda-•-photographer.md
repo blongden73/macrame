@@ -235,17 +235,17 @@ sections:
     This is H1
 
 
-    ## **This is H2**
+    ## **This is H2 bold**
 
 
-    ### **This is H3**
+    ### **This is H3 bold**
 
 
-    #### **This is H4**
+    #### **This is H4 bold**
 
 
-    ##### **This is H5**
+    ##### **This is H5 bold**
 
 
-    ###### **This is H6**
+    ###### **This is H6 bold**
 ---
