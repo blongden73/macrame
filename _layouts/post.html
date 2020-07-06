@@ -71,12 +71,12 @@ layout: default
     <h3>Awards</h3>
     {{page.awards | markdownify | replace: '\', ''}}
   {% endif %}
-  {% if page.awards %}
+  {% if page.website %}
     <h3>Website</h3>
     <a target="_blank" href="http://www.{{page.website}}">{{page.website | markdownify | replace: '\', ''}}</a>
   {% endif %}
   {% if page.imstagram %}
     <h3>Instagram</h3>
-    <a target="_blank" href="http://www.instagram.com/{{page.imstagram}}">{{page.imstagram | markdownify | replace: '\', ''}}</a>
+    @<a target="_blank" href="http://www.instagram.com/{{page.imstagram}}">{{page.imstagram | markdownify | replace: '\', ''}}</a>
   {% endif %}
 </section>
