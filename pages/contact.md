@@ -19,6 +19,6 @@ intro_paragraph: >-
   **[submissions@macrame.tv](mailto:submissions@macrame.tv)**
 
 
-  <small>We receive a high volume of submissions, <br>so please be patient while waiting to hear back from us.</small>
+  We receive a high volume of submissions, <br>so please be patient while waiting to hear back from us.
 footer: ""
 ---
