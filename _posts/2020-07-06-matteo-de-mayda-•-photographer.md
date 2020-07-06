@@ -305,8 +305,8 @@ logo: <svg width="265" height="175" viewBox="0 0 265 175" fill="none"
   01-.395-.553 4.594 4.594 0 01-.079-.949v-12.685h4.071v-2.964h-4.071z"
   fill="#000"/></svg>
 colour: "#9900cc"
-intro_paragraph: The story of **Matteo De Mayda** is about how mathematics and
-  physics can be turned into art.
+intro_paragraph: "**Matteo De Mayda** is about how mathematics and physics can
+  be turned into art."
 sections:
   section: >-
     Once upon a time, there was a little girl who dreamed of being a figure
