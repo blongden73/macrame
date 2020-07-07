@@ -28,11 +28,7 @@ intro_paragraph: >-
 
 
   ![](/assets/img/uploads/• about-3-800x800.gif)
-footer: >-
-  # If you would like to **discuss a project or just say hey.**
-
-
-  Since 2004, we have been on the lookout for people who have a vision and strive to make it a reality.
+footer: "# If you would like to **discuss a project or just say hey.**"
 ---
 **Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that would provide communication and design services at reasonable prices.
 
