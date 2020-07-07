@@ -20,5 +20,13 @@ intro_paragraph: >-
 
 
   We receive a high volume of submissions, <br>so please be patient while waiting to hear back from us.
-footer: ""
+footer: >-
+  # We believe in a world where **everyone can make a living doing what they
+  love.**
+
+
+  Macramè Network is a graphic design agency that forms unique teams for each new brief, drawing on an extensive network of skilled professionals.
+
+
+  Nothing pleases us more than putting together the right team to bring a project to life.
 ---
