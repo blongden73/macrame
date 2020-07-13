@@ -50,7 +50,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Living", name: "living", widget: "string", tagname: "h3", required: false}
       - {label: "Teaching", name: "teaching", widget: "markdown", tagname: "h3", required: false}
       - {label: "Awards", name: "awards", widget: "markdown", tagname: "h3", required: false}
-      - {label: "Exhibitions", name: "awards", widget: "markdown", tagname: "h3", required: false}
+      - {label: "Exhibitions", name: "exhibitions", widget: "markdown", tagname: "h3", required: false}
       - {label: "Features", name: "features", widget: "markdown", tagname: "h3", required: false}
       - {label: "Website", name: "website", widget: "string", tagname: "h3", required: false}
       - {label: "Instagram", name: "imstagram", widget: "string", tagname: "h3", required: false}
