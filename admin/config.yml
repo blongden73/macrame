@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Section3", name: "section3", widget: "markdown", required: false}
         - {label: "Section4", name: "section4", widget: "markdown", required: false}
         - {label: "Section5", name: "section5", widget: "markdown", required: false}
-        {label: "Client Label", name: "clientLabel", widget: "markdown", tagname: "h3", required: false}
+        - {label: "Client Label", name: "clientLabel", widget: "markdown", tagname: "h3", required: false}
         - label: "Clients"
           name: "clients"
           widget: "object"
