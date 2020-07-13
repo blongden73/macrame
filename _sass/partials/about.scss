@@ -20,6 +20,23 @@
     z-index: 10;
   }
 
+  h6 {
+    font-family: $recoleta;
+    font-weight: 200;
+  }
+
+  h5 {
+    font-weight: 200;
+  }
+
+  h5, h6 {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   &  >  p {
     @include font-size($size-three, 1.2);
     font-family: "recoleta";
