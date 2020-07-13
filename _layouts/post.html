@@ -30,9 +30,10 @@ layout: default
 {% endif %}
 
 {% assign clients = page.sections.clients %}
+{% assign clientsLabel = page.sections.clientLabel %}
 
 <section class="m-story__clients" uk-scrollspy="target: > p; cls: uk-animation-fade; delay: 100">
-  <h3>Clients</h3>
+  <h3>{{clientsLabel}}</h3>
   <div class="clients-inner flex">
     <div class="logo-wrapper">
       <img src="{{clients.client}}">
