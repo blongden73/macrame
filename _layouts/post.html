@@ -71,6 +71,14 @@ layout: default
     <h3>Awards</h3>
     {{page.awards | markdownify | replace: '\', ''}}
   {% endif %}
+  {% if page.exhibitions %}
+    <h3>Exhibitions</h3>
+    {{page.exhibitions | markdownify | replace: '\', ''}}
+  {% endif %}
+  {% if page.features %}
+    <h3>Features</h3>
+    {{page.features | markdownify | replace: '\', ''}}
+  {% endif %}
   {% if page.website %}
     <h3>Website</h3>
     <a target="_blank" href="http://www.{{page.website}}">{{page.website | markdownify | replace: '\', ''}}</a>
