@@ -19,7 +19,7 @@ intro_paragraph: >-
   **[submissions@macrame.tv](mailto:submissions@macrame.tv)**
 
 
-  We receive a high volume of submissions, <br>so please be patient while waiting to hear back from us.
+  ###### We receive a high volume of submissions, so please be patient while waiting to hear back from us.
 footer: >-
   # We believe in a world where **everyone can make a living doing what they
   love.**
