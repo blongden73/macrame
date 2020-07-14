@@ -362,7 +362,7 @@ sections:
     ![](/assets/img/uploads/gabi-capobianco-website.jpg)
 
 
-    > "To turn an abstract idea into a real piece"
+    > "Turning an abstract idea into a real piece."
 
     >
 
