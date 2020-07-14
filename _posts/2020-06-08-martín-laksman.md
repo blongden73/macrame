@@ -234,7 +234,7 @@ sections:
     ![Martin Laksman](/assets/img/uploads/laksman.jpg)
 
 
-    > Helping the club he loves to win the championship yet again
+    > Helping the club I love to win the championship yet again
 
     >
 
