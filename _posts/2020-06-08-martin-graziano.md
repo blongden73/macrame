@@ -283,7 +283,7 @@ sections:
     exception.
 
 
-    **Martín’s grandfather was a carpenter.** Little Martin spent hours and hours learning how to work with wood at grandpa's shop, shaping it into amazing things. As he recalls, “I grew up at that workshops surrounded by sawdust and tools. It was part of my childhood and who I am today.”
+    **Martin’s grandfather was a carpenter.** Little Martin spent hours and hours learning how to work with wood at grandpa's shop, shaping it into amazing things. As he recalls, “I grew up at that workshops surrounded by sawdust and tools. It was part of my childhood and who I am today.”
 
 
     `{{space}}`
