@@ -313,7 +313,7 @@ sections:
     `{{space}}`
 
 
-    **Instead of growing up to be a carpenter, he became a graphic designer and art director instead.** Though these careers may not seem to have a lot in common, they actually do.
+    **Instead of growing up to be a carpenter, he became a graphic designer and art director.** Though these careers may not seem to have a lot in common, they actually do.
 
 
     **Working with wood is a creative job.** You turn raw materials into ideas, shaping and modeling them. Just as you do with an idea: it's a blank slate for you to create and shape into a poster, a website, or a live event.
