@@ -30,7 +30,7 @@ intro_paragraph: >-
   ![](/assets/img/uploads/• about-3-800x800.gif)
 footer: "# If you would like to **discuss a project or just say hey.**"
 ---
-**Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that would provide communication and design services at reasonable prices.
+**Macramé Network was founded in 2004** in northeast Italy, a region known for its entrepreneurial spirit, **as a network of professionals** that would provide communication and design services.
 
 **Today most things people seek are just a click away.** This means that things are fast and simple and people expect quality products at a reasonable price.
 
