@@ -231,7 +231,7 @@ sections:
     `{{space}}`
 
 
-    ![Martin Laksman](/assets/img/uploads/laksman.jpg)
+    ![Martin Laksman](/assets/img/uploads/martin-laksman-portrait.jpg)
 
 
     > Helping the club I love to win the championship yet again
@@ -241,13 +241,13 @@ sections:
     > * On Childhood Dreams
 
 
-    ![Martin Laksman 1](/assets/img/uploads/img1.jpg)
+    ![Martin Laksman 1](/assets/img/uploads/martin-laksman-cai-stadium-.jpg)
 
 
-    ![Martin Laksman 2](/assets/img/uploads/img2.jpg)
+    ![Martin Laksman 2](/assets/img/uploads/martin-laksman-cai.jpg)
 
 
-    ![Martin Laksman 3](/assets/img/uploads/img3.jpg)
+    ![Martin Laksman 3](/assets/img/uploads/martin-laksman-studio.jpg)
 
 
     **But there's a way more important question here:** was he a great goaltender because of his amazing drawing skills? Or is he a talented illustrator because he used his hands to knock flying balls far from the net?
