@@ -1520,7 +1520,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/nat.jpg)
+    ![](/assets/img/uploads/natalia-elichirigoity-portrait.jpg)
 
 
     > “Art inspires me to create **more sensitive works.”**
@@ -1530,13 +1530,13 @@ sections:
     > * On Art
 
 
-    ![](/assets/img/uploads/nat1.png)
+    ![](/assets/img/uploads/natalia-elichirigoity-closeup.jpg)
 
 
-    ![](/assets/img/uploads/nat2.png)
+    ![](/assets/img/uploads/natalia-elichirigoity-studio-closeup.jpg)
 
 
-    ![](/assets/img/uploads/nat3.png)
+    ![](/assets/img/uploads/natalia-elichirigoity-studio.jpg)
 
 
     `{{space}}`
