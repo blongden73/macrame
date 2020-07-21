@@ -273,10 +273,8 @@ logo: <svg width="189" height="180" viewBox="0 0 189 180" fill="none"
   2.888v12.919h-3.23v-13.299c0-1.216-.355-2.179-1.064-2.888-.709-.71-1.685-1.064-2.926-1.064-.988
   0-1.849.152-2.584.456a4.835 4.835 0 00-1.786 1.292 5.78 5.78 0 00-1.102
   1.976c-.228.734-.342 1.545-.342 2.431v11.096h-3.23z" fill="#000"/></svg>
-illustration: /assets/img/uploads/• running-800x800.gif
-living: "Spain "
-author: john_doe
 colour: "#FF9022"
+illustration: /assets/img/uploads/• running-800x800.gif
 intro_paragraph: The history of designer and art director **Martin Graziano** is carved in wood.
 sections:
   section: >-
@@ -291,7 +289,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/martin.jpg)
+    ![](/assets/img/uploads/martin-graziano-portrait.jpg)
 
 
     > “I grew up at that workshops surrounded by sawdust and tools. It was part of my childhood and who I am today.”
@@ -301,13 +299,13 @@ sections:
     > * On His Childhood
 
 
-    ![](/assets/img/uploads/rectangle-copy-4-1.jpg)
+    ![](/assets/img/uploads/martin-graziano-family.jpg)
 
 
-    ![](/assets/img/uploads/graziano1.jpg)
+    ![](/assets/img/uploads/martin-graziano-galicia.jpg)
 
 
-    ![](/assets/img/uploads/graziano2.jpg)
+    ![](/assets/img/uploads/martin-graziano-studio.jpg)
 
 
     `{{space}}`
@@ -453,6 +451,8 @@ sections:
     client5: /assets/img/uploads/santander-logo.png
   section5: ""
 working: "Art Director  "
+living: "Spain "
+author: john_doe
 website: martingraziano.com.ar
 imstagram: martingraziano.design
 footer: |-
