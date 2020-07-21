@@ -323,7 +323,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/fran.jpg)
+    ![](/assets/img/uploads/francisco-miranda.jpg)
 
 
     > “Handmade work, but also **the beauty of industrial perfection.**”
@@ -333,13 +333,13 @@ sections:
     > * On His Interests
 
 
-    ![](/assets/img/uploads/fran1.png)
+    ![](/assets/img/uploads/francisco-miranda-expo2.jpg)
 
 
-    ![](/assets/img/uploads/fran2.png)
+    ![](/assets/img/uploads/francisco-miranda-expo.jpg)
 
 
-    ![](/assets/img/uploads/fran3.png)
+    ![](/assets/img/uploads/francisco-miranda-studio.jpg)
 
 
     `{{space}}`
