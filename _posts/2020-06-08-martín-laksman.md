@@ -350,7 +350,7 @@ sections:
     > * On the New Generations
 
 
-    **But soccer is not his only passion.** He’s also very involved at the University of Buenos Aires, where he teaches and helped create a new post graduate course. This keeps him in close touch with the new generation of creatives: “They are different. They live different.  They're a whole new breed of consumers. And we must adapt to them - adapting contents to their reality."
+    **But soccer is not his only passion.** He’s also very involved at the University of Buenos Aires, where he teaches and helped create a new post-graduate course about professional illustration. This keeps him in close touch with the new generation of creatives: “They are different. They live different.  They're a whole new breed of consumers. And we must adapt to them - adapting contents to their reality."
 
 
     **Maybe his close work with the new generations** contributed to his work on a special project with Macramè: the illustrations for a novel by Federico Ceniti and Leonardo Bonucci. A great story against bullying that promotes true values.
