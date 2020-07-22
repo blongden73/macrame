@@ -250,7 +250,7 @@ sections:
     ![Martin Laksman 3](/assets/img/uploads/martin-laksman-studio.jpg)
 
 
-    **But there's a way more important question here:** was he a great goaltender because of his amazing drawing skills? Or is he a talented illustrator because he used his hands to knock flying balls far from the net?
+    **But there's a way more important question here:** was he a great goalkeeper because of his amazing drawing skills? Or is he a talented illustrator because he used his hands to knock flying balls far from the net?
 
 
     **We’ll never know for sure.** But one thing we do know is that since he was a boy, he loved drawing. And playing soccer. But in Martín's own words: “All the memories I have are of me drawing stuff."
