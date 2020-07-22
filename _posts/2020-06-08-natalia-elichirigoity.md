@@ -836,7 +836,7 @@ sections:
     **But as we will see,** Natalia's life is all about fantastic coincidences that lead to something better. In this case, ending Dogo allowed her to embark on an adventure as a freelancer.
 
 
-    **And she has continued on that path** since it allows her to enjoy design along with some of her other passions, like calligraphy, lettering and font design.
+    **And she has continued on that path** since it allows her to enjoy design along with some of her other passions, like calligraphy, lettering and type design.
 
 
     **And that’s a career milestone** because from her point of view: “Learning how to draw letters really enriches my work as a designer: the question of managing spaces, creating the layout, etc.”
