@@ -397,7 +397,7 @@ sections:
 working: Illustrator and Art Director at Club Atletico Independiente
 living: Argentina
 teaching: |-
-  Director, Continuous Learning Program in Illustration for Professionals\
+  Co-Director, Continuous Learning Program in Illustration for Professionals\
   University of Buenos Aires - Argentina 
 
   Associate Professor in Illustration University of Buenos Aires - Argentina
