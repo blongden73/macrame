@@ -890,6 +890,9 @@ sections:
     ![](/assets/img/uploads/ceniza-negra.jpg)
 
 
+    ![](/assets/img/uploads/09-adobe.jpg)
+
+
     ![](/assets/img/uploads/anchoita-restaurant-argentina-map.jpg)
   section3: >-
     > “I pushed towards something new and **became more confident drawing
@@ -975,7 +978,7 @@ sections:
     ![](/assets/img/uploads/sistema-museo-editorial-illustration.jpg)
   clients:
     client: /assets/img/uploads/disney_logo.png
-    client2: /assets/img/uploads/hyatt-logo.png
+    client2: /assets/img/uploads/adobe-logo.png
     client3: /assets/img/uploads/kraft-heinz-logo.png
     client4: /assets/img/uploads/national-geographic-logo.png
     client5: /assets/img/uploads/red-cross-logo.png
