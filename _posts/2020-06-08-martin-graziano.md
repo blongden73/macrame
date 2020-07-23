@@ -275,7 +275,7 @@ logo: <svg width="189" height="180" viewBox="0 0 189 180" fill="none"
   1.976c-.228.734-.342 1.545-.342 2.431v11.096h-3.23z" fill="#000"/></svg>
 colour: "#FF9022"
 illustration: /assets/img/uploads/• running-800x800.gif
-intro_paragraph: The history of designer and art director **Martin Graziano** is carved in wood.
+intro_paragraph: designer and art director **Martin Graziano** is carved in wood.
 sections:
   section: >-
     A few decades ago, Martin Graziano was born in in Buenos Aires, Argentina.
