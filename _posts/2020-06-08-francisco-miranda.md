@@ -189,7 +189,7 @@ sections:
     `{{space}}`
 
 
-    ![](/assets/img/uploads/francisco-miranda.jpg)
+    ![](/assets/img/uploads/francisco-miranda-portrait.jpg)
 
 
     > “Handmade work, but also **the beauty of industrial perfection.**”
