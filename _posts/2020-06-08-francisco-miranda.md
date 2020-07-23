@@ -211,7 +211,7 @@ sections:
     `{{space}}`
 
 
-    **The son of an electromechanical engineer and a bohemian writer,** he is interested in every aspect of creating art​, from ideas to planning and fruition. He was once entrusted with the tech specs to hang a piece seven meters long, three meters wide and two meters thick on a museum in the United Arab Emirates museum, because this ​“square with a sense of aesthetics,”​ as he describes himself, is intrigued by the whole process. ​“There’s just something about the Spreadsheet, the process, the math behind it all...”
+    **The son of an electromechanical engineer and a bohemian writer,** he is interested in every aspect of creating art​, from ideas to planning and fruition. He was once entrusted with the tech specs to hang a piece seven meters wide, three meters high and two meters thick on the Sharjah Art Museum in the United Arab Emirates, because this ​“square with a sense of aesthetics,”​ as he describes himself, is intrigued by the whole process. ​“There’s just something about the Spreadsheet, the process, the math behind it all...”
   section2: >-
     > “My interests diversified: **illustration, visual arts and industrial
     design”**
@@ -269,7 +269,7 @@ sections:
     **But his work is not only shown at galleries.** He is involved in creative 3-D design like the decorative modular panels he created with architect Alejo Petrucci or the set design for the reality show Big Brother Argentina.
 
 
-    **From a small jewel to an installation seven meters long,** this creative talent finds inspiration from commercial projects​, because in his words:
+    **From a small jewel to an installation seven meters wide,** this creative talent finds inspiration from commercial projects​, because in his words:
 
 
     “I just love creating a commercial product from scratch."
