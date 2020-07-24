@@ -906,7 +906,7 @@ sections:
     **While working on several extremely satisfying projects,** she embarked on the typeface Portuguesa, a three-font family done in collaboration with Sudtipos.
 
 
-    "I pushed towards something new and became more confident”
+    "I pushed towards something new and became more confident drawing letters”
 
 
     **It was a difficult process,** but a highly rewarding one. And that’s what she's all about: never giving up, always looking for more. An attitude that has given her the chance to work for The Walt Disney Company, NatGeo, Desiderata, the Buenos Aires Municipal Government, Red Cross and Hyatt, among others.
