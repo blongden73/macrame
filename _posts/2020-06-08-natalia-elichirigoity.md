@@ -949,7 +949,7 @@ sections:
     > * On Macramè
 
 
-    **That attitude is precisely what makes her enjoy her work with Macramè:** because as an art lover, working om the graphics and catalogues of museum exhibits means a lot to her.
+    **That attitude is precisely what makes her enjoy her work with Macramè:** because as an art lover, working on the graphics and catalogues of museum exhibits means a lot to her.
 
 
     “Standing before a painting and picturing the artist inspires me to create more sensitive work."
