@@ -292,7 +292,7 @@ sections:
     ![](/assets/img/uploads/martin-graziano-portrait.jpg)
 
 
-    > “I grew up at that workshops surrounded by sawdust and tools. It was part of my childhood and who I am today.”
+    > “I grew up at that workshop surrounded by sawdust and tools. It was part of my childhood and who I am today.”
 
     >
 
