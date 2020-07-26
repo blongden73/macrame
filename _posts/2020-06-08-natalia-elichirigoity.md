@@ -854,13 +854,13 @@ sections:
     But her deep, true love for letters came later, almost by accident. And here’s where the serendipity comes into play.
 
 
-    **While traveling through California on a dream journey,** Natalia's laptop broke down and she had to make a stop at the Apple Store. And as she was waiting for tech support, she struck up a conversation about life with another customer.
+    **While traveling through California on a dream journey,** fate struck. Natalia's laptop broke down and she had to make a stop at the Apple Store. And as she was waiting for tech support, she struck up a conversation about life with another customer.
 
 
-    **The stranger, a lettering artist, showed Natalia her work** and suddenly, everything changed. As she shared her artwork, Natalia remembers being entranced by the beautiful letters.
+    **The stranger showed Natalia her work** and suddenly, everything changed. The woman was a lettering artist. And as she shared her artwork, Natalia remembers being entranced by the beautiful letters.
 
 
-    **And that's how she found her calling at an Apple Store in the middle of California.** “Typography involves design but also illustration and letters. The perfect mix! And that's when it hit me: this is what I want to do."
+    **And that's how she found her calling at an Apple Store in the middle of California.** “It was design but also illustration and letters. Lettering was the perfect mix! And that's when it hit me: this is what I want to do."
 
 
     She started doing courses in this art in Argentina and the United States and **her career in lettering was off and running.** 
@@ -915,7 +915,7 @@ sections:
     **That’s the kind of passion that got her work into Taschen books, Viction:ary Publishing and Art Quarter.** And also led her lettering work to be selected as the best project in a Ken Barber’s lettering workshop.
 
 
-    “The best part was when Ken said to me, 'Your letterforms are incredible,' and gave me some House Industries gear as a prize. Oh yeah!”
+    “This might seem like a minor detail but for me, the best part was when Ken said, 'Your letterforms are incredible,' and gave me some House Industries gear as a prize. Oh yeah!”
 
 
     `{{space}}`
