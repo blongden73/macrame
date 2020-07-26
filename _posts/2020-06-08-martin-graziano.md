@@ -292,7 +292,7 @@ sections:
     ![](/assets/img/uploads/martin-graziano-portrait.jpg)
 
 
-    > “I grew up at that workshop surrounded by sawdust and tools. It was part of my childhood and who I am today.”
+    > “**I grew up at that workshop** surrounded by sawdust and tools. It was part of my childhood and who I am today.”
 
     >
 
@@ -362,7 +362,7 @@ sections:
     ![](/assets/img/uploads/gabi-capobianco-website.jpg)
 
 
-    > "Turning an abstract idea into a real piece."
+    > "Turning an abstract idea into **a real piece**."
 
     >
 
@@ -405,7 +405,7 @@ sections:
 
     ![](/assets/img/uploads/la-serenisima-milk-day-campaign-print.jpg)
   section4: >-
-    > "Working on a range of diverse projects helped me grow as a designer.”
+    > "Working on a range of diverse projects **helped me grow as a designer.**”
 
     >
 
