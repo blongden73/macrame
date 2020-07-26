@@ -839,7 +839,7 @@ sections:
     **And she has continued on that path** since it allows her to enjoy design along with some of her other passions, like calligraphy, lettering and type design.
 
 
-    **And that’s a career milestone** because from her point of view: “Learning how to draw letters really enriches my work as a designer: the question of managing spaces, creating the layout, etc.”
+    **And that’s a career milestone** because from her point of view: “Learning how to draw letters really enriches my work as a designer: how you manage spaces, create the layout, etc.”
   section2: >-
     > “Typography involves design but also illustration and letters. **The
     perfect mix!”**
