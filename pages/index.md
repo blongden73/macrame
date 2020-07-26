@@ -5,7 +5,7 @@ subtitle: The Knots
 permalink: /
 section: home
 intro_paragraph: We look back and celebrate the talent that helped us grow into
-  the company we are today.
+  the design company we are today.
 footer: >-
   # We believe in a world where **everyone can make a living doing what they
   love.**
