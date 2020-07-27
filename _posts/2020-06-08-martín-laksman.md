@@ -215,7 +215,7 @@ logo: <svg width="220" height="149" viewBox="0 0 220 149" fill="none"
   6.165V70.22h-5.018V49.515z" fill="#000"/></svg>
 colour: "#FF5C5A"
 illustration: /assets/img/uploads/• goalie-800x800.gif
-intro_paragraph: "**Martín Laksman,** or the goalie who uses his hands to draw all his games."
+intro_paragraph: "**Martin Laksman,** or the goalie who uses his hands to draw all his games."
 sections:
   section: >-
     Born in 1976 in a suburban town west of Buenos Aires, Martin Laksman always
