@@ -307,8 +307,8 @@ sections:
 
     > * On Traveling
   section3: >-
-    **That, and that fact that he now "plays" for the soccer team of his dreams,
-    his beloved Club Atlético Independiente.**
+    **That, and that fact that he now "plays" for the soccer team of his
+    dreams,** his beloved Club Atlético Independiente.
 
 
     **He had plenty to offer the soccer club and he knew it.** That’s why he reached out to the marketing department to offer his services. Now the illustration of the devil on the club's jersey is one of the many designs Martin has done for Independiente. The club is currently one of his most important clients and a daily source of motivation.
