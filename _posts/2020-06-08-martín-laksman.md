@@ -305,7 +305,7 @@ sections:
 
     >
 
-    > * On Sport and Design
+    > * On Sport & Design
   section3: >-
     **That, and that fact that he now "plays" for the soccer team of his
     dreams,** his beloved Club Atlético Independiente.
