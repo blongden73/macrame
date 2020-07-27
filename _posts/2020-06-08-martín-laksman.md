@@ -301,11 +301,11 @@ sections:
     ![Martin Laksman 12](/assets/img/uploads/zlatan-ibrahimovic-football-player-illustration.jpg)
 
 
-    > "That's what **fuels my engine**."
+    > "A daily source of **inspiration and motivation**."
 
     >
 
-    > * On Traveling
+    > * On Sport and Design
   section3: >-
     **That, and that fact that he now "plays" for the soccer team of his
     dreams,** his beloved Club Atlético Independiente.
