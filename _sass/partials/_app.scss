@@ -123,9 +123,13 @@ nav {
         border: 0;
         font-family: $helvetica;
         position: absolute;
-        bottom: spacing(2);
+        bottom: spacing(8);
         left: spacing(2);
         font-size: $base-size;
+
+        @include mq($from: desktop) {
+          bottom: spacing(2);
+        }
 
         &:hover {
           background-color: transparent;
