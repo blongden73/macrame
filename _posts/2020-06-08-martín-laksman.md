@@ -234,7 +234,7 @@ sections:
     ![Martin Laksman](/assets/img/uploads/martin-laksman-portrait.jpg)
 
 
-    > Helping the club I love to win the championship yet again
+    > Helping the club I love to **conquer the world** once again.
 
     >
 
@@ -255,7 +255,7 @@ sections:
 
     **We’ll never know for sure.** But one thing we do know is that since he was a little boy, he loved drawing. And playing soccer, of course. But in Martín's own words: “All the memories I have are of me drawing stuff."
   section2: >-
-    > All the memories I have are of me drawing stuff
+    > All the memories I have are of **me drawing stuff**
 
     >
 
@@ -272,8 +272,6 @@ sections:
 
 
     **He makes time for trips, not only to** **escape from the daily routine**, but also to get in touch with new ideas, trends and art. Conferences, museum visits, and even a 30-minute talk over coffee with someone he admires are all great excuses to fly to destinations around the world. Besides whisking him away from the noisy yet inspiring chaos of Buenos Aires, these trips allow him to keep on growing as an artist and a person - and see what his colleagues are doing around the world.
-
-
 
 
     `{{space}}`
@@ -303,7 +301,7 @@ sections:
     ![Martin Laksman 12](/assets/img/uploads/zlatan-ibrahimovic-football-player-illustration.jpg)
 
 
-    > "That's what fuels my engine."
+    > "That's what **fuels my engine**."
 
     >
 
@@ -345,7 +343,7 @@ sections:
 
     ![](/assets/img/uploads/club-atletico-independiente-football-shirt-design.jpg)
   section4: >-
-    > They're a whole new breed of consumers. And we must adapt to them.
+    > They're a whole new breed of consumers. And **we must adapt to them**.
 
     >
 
@@ -375,7 +373,7 @@ sections:
 
     ![](/assets/img/uploads/leonardo-bonucci-mio-amico-leo-book-illustration.jpg)
   section5: >-
-    > Being able to work at a place where you meet amazing people.
+    > Being able to work at a place where you **meet amazing people**.
 
     >
 
