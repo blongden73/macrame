@@ -331,7 +331,7 @@ sections:
     > * On His Career
 
 
-    **Martín's long journey started years ago** as he was finishing high school. He had taken a few classes on design and advertising and knew his future was headed in that direction. When he got his first job at a publishing house, he was still self-taught, and at one point he realized: ​"If I wanted to get ahead, I had to continue with my studies."
+    **Martín's long journey started years ago** as he was finishing high school. He had taken a few classes on design and advertising and knew his future was headed in that direction. He got his first job at a publishing house and things were going well despite the fact that he was still self-taught. Finally he realized: ​"If I wanted to get ahead, I had to continue with my studies."
 
 
     **He graduated with a degree in graphic design** from the University of Buenos Aires and then studied art direction at Argentina's Advertising Agency Association.
@@ -371,11 +371,12 @@ sections:
     > * On the Role of the Art Director
   section3: >-
     **His first award came while he was still in college.** The client was Banco
-    Itaú, one of the most important financial institutions in Latin America. Now
-    he works for three banks: Itaú, BBVA and Santander.
+    Itaú, one of the most important financial institutions in Latin America. The
+    award provided a training that would allow him to attract some of the
+    world's most important banks, including BBVA and Santander.
 
 
-    **That award also got him a job at one of Argentina's most creative advertising agencies** at that time. Long hours, crazy weekends. The Mad Men life was not for him, though he learned plenty. Now he looks back and realizes how important that baptism of fire in advertising was to his career.
+    **That award also got him a job at one of Argentina's most creative advertising agencies** at that time. Long hours, crazy weekends. The Mad Men life was not for him, though he learned plenty without even realizing it. Now he looks back and sees how important that baptism of fire in advertising was to his career.
 
 
     **Advertising helped him become the problem-solver creative he is today,** setting him apart from newly graduated designers. “One of the things I noticed when working with younger people is that they often find it difficult to turn an abstract idea into a real piece of work.”
