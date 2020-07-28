@@ -322,16 +322,16 @@ sections:
     **So Martín's grandfather shaped the little boy's future,** maybe without even knowing it.
 
 
-    **Coincidentally, Martín now lives in Galicia, Spain, the land of his grandfather.** He moved there by chance but then found there the peace of mind he needed to be the best graphic designer he could be. The madness of the Buenos Aires advertising and design scene was behind him and peaceful Galicia was now his home.
+    **Coincidentally, Martín now lives in Galicia, Spain, the land of his grandfather.** He moved there by chance but then found there the peace of mind he needed to be the best graphic designer he could be. The madness of the Buenos Aires advertising and design scene was long gone. Peaceful Galicia was now his home.
   section2: >-
-    > "Studying is essential to getting ahead."
+    > "If I wanted to get ahead, I had to continue with my studies."
 
     >
 
     > * On His Career
 
 
-    **Martín's long journey started years ago** as he was finishing high school. He had taken a few classes on design and advertising and knew his future was headed in that direction. When he got his first job at a publishing house, he was still self-taught, and at one point he realized: ​"Studying is essential to getting ahead."
+    **Martín's long journey started years ago** as he was finishing high school. He had taken a few classes on design and advertising and knew his future was headed in that direction. When he got his first job at a publishing house, he was still self-taught, and at one point he realized: ​"If I wanted to get ahead, I had to continue with my studies."
 
 
     **He graduated with a degree in graphic design** from the University of Buenos Aires and then studied art direction at Argentina's Advertising Agency Association.
