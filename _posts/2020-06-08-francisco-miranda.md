@@ -172,12 +172,11 @@ logo: <svg version="1.1" id="Layer_1" width="265" height="182”
   5.4-15.9z"/></svg>
 colour: "#5FA1FF"
 illustration: /assets/img/uploads/• spacial-800x800.gif
-intro_paragraph: "**Francisco Miranda** is about how mathematics and physics can
-  be turned into art."
+intro_paragraph: "**Francisco Miranda,** or how you can turn mathematics and physics into art."
 sections:
   section: >-
     Calling Francisco Miranda a really talented artist is something of an
-    understatement. 
+    understatement. He is also unlike other artists you may have heard of.
 
 
     **Born in Buenos Aires in 1981, Francisco may be the most industrial and mechanical artist, or the most artistic industrial designer, you ever meet.**
@@ -211,7 +210,7 @@ sections:
     `{{space}}`
 
 
-    **The son of an electromechanical engineer and a bohemian writer,** he is interested in every aspect of creating art​, from ideas to planning and fruition. He was once entrusted with the tech specs to hang a piece seven meters wide, three meters high and two meters thick on the Sharjah Art Museum in the United Arab Emirates, because this ​“square with a sense of aesthetics,”​ as he describes himself, is intrigued by the whole process. ​“There’s just something about the Spreadsheet, the process, the math behind it all...”
+    **The right balance between his father, an electromechanical engineer, and his mother, a bohemian writer,** Francisco is interested in every aspect of creating art​, from ideas to planning and fruition. He was once entrusted with the tech specs to hang a piece seven meters wide, three meters high and two meters thick on the Sharjah Art Museum in the United Arab Emirates, because this ​“square with a sense of aesthetics,”​ as he describes himself, is intrigued by the whole process. ​“There’s just something about the Spreadsheet, the process, the math behind it all...”
   section2: >-
     > “My interests diversified: **illustration, visual arts and industrial
     design”**
@@ -221,13 +220,16 @@ sections:
     > * On His Career
 
 
-    **His approach had won him several awards** like the ones he got from the Salón Nacional de Artes Visuales and the Buenos Aires Biennial of Young Art. Francisco was even one of 15 illustrators/designers selected by Microsoft worldwide to create a background for the launch of Windows 8.
+    **His approach had won him several awards and special mentions** like the ones he got from the Salón Nacional de Artes Visuales and the Buenos Aires Biennial of Young Art. Francisco was even one of 15 illustrators/designers selected by Microsoft worldwide to create a background for the launch of Windows 8.
+
+
+    But he wasn't always an artist who approached his work with the precision of a surgeon.
 
 
     **His career began as a graphic designer.** Francisco studied at the University of Buenos Aires, where he also taught for seven years after getting his degree.
 
 
-    **After graduating, Francisco worked in design and illustration for several design studios and advertising agencies,** but ​soon began questioning everything he learned. That led him to experiment with different materials and techniques, realizing, at some point, that he needed to evolve from two-dimensional art into disruptive volumetric works.
+    **A young Francisco took his first steps in design and illustration working for several design studios and advertising agencies,** but ​soon began questioning everything he learned. That led him to experiment with different materials and techniques, until, at some point, his two-dimensional art cried out for something more. This is how his work evolved into disruptive volumetric pieces.
 
 
     **And that's how his artistic career was born.** But he never stopped being a designer. He enjoys both worlds.
@@ -260,7 +262,7 @@ sections:
     > * On Commercial Projects
 
 
-    **Specialization in a single area of art is, in Francisco's view, limiting.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what?
+    **Specialization in a single area of art is, in Francisco's view, a trap.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what?
 
 
     “And that’s basically because we are often encouraged to pay too much attention to someone else's work."
