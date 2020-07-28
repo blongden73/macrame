@@ -382,7 +382,7 @@ sections:
     **Advertising helped him become the problem-solver creative he is today,** setting him apart from newly graduated designers. “One of the things I noticed when working with younger people is that they often find it difficult to turn an abstract idea into a real piece of work.”
 
 
-    **That’s his main strength.** He's got the designer tools and training in advertising, allowing him to create powerful creative assets packed with contents.
+    **That’s his main strength.** He's got the designer tools and training in advertising: the perfect mix to create powerful creative assets packed with contents.
 
 
     **That’s why he can take on a range of tasks**, from branding to illustration, editorial design and even a campaign. This versatility has attracted clients like Orbis, Dermaglos, Samsung and Disney Latin America.
@@ -421,7 +421,7 @@ sections:
     **Maybe that’s why he’s been with Macramè for 12 years.** And why all his clients want to keep working with him.
 
 
-    **That work life balance is the secret of this sage** who escaped the world of the Mad Men to work in his grandfather’s peaceful homeland.
+    **That work-life balance is the secret of this Wise Man** who escaped the world of the Mad Men to work in his grandfather’s peaceful homeland.
 
 
     `{{space}}`
