@@ -262,13 +262,13 @@ sections:
     > * On Commercial Projects
 
 
-    **Specialization in a single area of art is, in Francisco's view, a trap.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what?
+    **Specialization is, in Francisco's view, a trap.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what?
 
 
     “And that’s basically because we are often encouraged to pay too much attention to someone else's work."
 
 
-    **But his work is not only shown at galleries.** He is involved in creative 3-D design like the decorative modular panels he created with architect Alejo Petrucci or the set design for the reality show Big Brother Argentina.
+    **But his work is not only shown at galleries.** He also creates sophisticated 3-D designer pieces like the decorative modular panels he did with architect Alejo Petrucci - which many people enjoying having on their walls - or the set design for the reality show Big Brother Argentina.
 
 
     **From a small jewel to an installation seven meters wide,** this creative talent finds inspiration from commercial projects​, because in his words:
