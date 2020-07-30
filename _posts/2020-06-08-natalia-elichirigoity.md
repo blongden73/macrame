@@ -890,7 +890,7 @@ sections:
     ![](/assets/img/uploads/ceniza-negra.jpg)
 
 
-    ![](/assets/img/uploads/09-adobe.jpg)
+    ![](/assets/img/uploads/adobe-avid-bezierist.jpg)
 
 
     ![](/assets/img/uploads/anchoita-restaurant-argentina-map.jpg)
