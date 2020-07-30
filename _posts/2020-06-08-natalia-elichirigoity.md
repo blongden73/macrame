@@ -841,7 +841,8 @@ sections:
 
     **And that’s a career milestone** because from her point of view: “Learning how to draw letters really enriches my work as a designer: how you manage spaces, create the layout, etc.”
   section2: >-
-    > “It was design but also illustration and letters. **The perfect mix!”**
+    > “Besides letters, lettering involves design and, to a certain extent,
+    illustration. **The perfect mix!”**
 
     >
 
@@ -859,7 +860,7 @@ sections:
     **The stranger showed Natalia her work** and suddenly, everything changed. The woman was a lettering artist. And as she shared her artwork, Natalia remembers being entranced by the beautiful letters.
 
 
-    **And that's how she found her calling at an Apple Store in the middle of California.** “It was design but also illustration and letters. Lettering was the perfect mix! And that's when it hit me: this is what I want to do."
+    **And that's how she found her calling at an Apple Store in the middle of California.** “Besides letters, lettering involves design and, to a certain extent, illustration. The relationship between these three components is what most attracted me. The perfect mix!."
 
 
     She started doing courses in this art in Argentina and the United States and **her career in lettering was off and running.** 
