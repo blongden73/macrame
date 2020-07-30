@@ -841,8 +841,7 @@ sections:
 
     **And that’s a career milestone** because from her point of view: “Learning how to draw letters really enriches my work as a designer: how you manage spaces, create the layout, etc.”
   section2: >-
-    > “Typography involves design but also illustration and letters. **The
-    perfect mix!”**
+    > “It was design but also illustration and letters. **The perfect mix!”**
 
     >
 
