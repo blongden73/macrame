@@ -270,8 +270,7 @@ sections:
     **But his work is not only shown at galleries.** He also creates sophisticated 3-D designer pieces like the decorative modular panels he did with architect Alejo Petrucci - which many people enjoying having on their walls - or the set design for the reality show Big Brother Argentina.
 
 
-    **From a small jewel to an installation seven meters wide,** this creative talent finds inspiration from commercial projects​, because in his words:
-
+    **From a small jewel to an installation seven meters wide,** this creative talent finds inspiration from commercial projects​, because in his words:\
 
     “I just love creating a commercial product from scratch."
 
