@@ -793,7 +793,7 @@ sections:
     If Serendipity were a place, Natalia Elichirigoity would be queen**.**
 
 
-    **That may sound crazy,** but after you get to know this art lover, designer and calligrapher and hear how she found a calling in letters, it may not sound so crazy after all.
+    **That may sound crazy,** but after you get to know this art lover, designer and lettering artist and hear how she found a calling in letters, it may not sound so crazy after all.
 
 
     **Let’s start from the beginning.**
