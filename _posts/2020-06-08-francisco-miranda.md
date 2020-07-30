@@ -223,7 +223,7 @@ sections:
     **His approach had won him several awards and special mentions** like the ones he got from the Salón Nacional de Artes Visuales and the Buenos Aires Biennial of Young Art. Francisco was even one of 15 illustrators/designers selected by Microsoft worldwide to create a background for the launch of Windows 8.
 
 
-    But he wasn't always an artist who approached his work with the precision of a surgeon.
+    **But he wasn't always an artist who approached his work with the precision of a surgeon.**
 
 
     **His career began as a graphic designer.** Francisco studied at the University of Buenos Aires, where he also taught for seven years after getting his degree.
