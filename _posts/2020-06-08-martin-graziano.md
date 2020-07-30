@@ -2,7 +2,7 @@
 layout: post
 title: Martin Graziano • Art Director
 name: The Wise Man
-subname: Who Ran Away from the Mad Men
+subname: Who Ran Away from Mad Men
 logo: <svg width="189" height="180" viewBox="0 0 189 180" fill="none"
   xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd"
   clip-rule="evenodd" d="M96.507
@@ -273,10 +273,8 @@ logo: <svg width="189" height="180" viewBox="0 0 189 180" fill="none"
   2.888v12.919h-3.23v-13.299c0-1.216-.355-2.179-1.064-2.888-.709-.71-1.685-1.064-2.926-1.064-.988
   0-1.849.152-2.584.456a4.835 4.835 0 00-1.786 1.292 5.78 5.78 0 00-1.102
   1.976c-.228.734-.342 1.545-.342 2.431v11.096h-3.23z" fill="#000"/></svg>
-illustration: /assets/img/uploads/• running-800x800.gif
-living: "Spain "
-author: john_doe
 colour: "#FF9022"
+illustration: /assets/img/uploads/• running-800x800.gif
 intro_paragraph: "**Martin Graziano** and a destiny carved in wood."
 sections:
   section: >-
@@ -324,7 +322,7 @@ sections:
 
     **Coincidentally, Martín now lives in Galicia, Spain, the land of his grandfather.** He moved there by chance but then found there the peace of mind he needed to be the best graphic designer he could be. The madness of the Buenos Aires advertising and design scene was long gone. Peaceful Galicia was now his home.
   section2: >-
-    > "If I wanted to get ahead, I had to continue with my studies."
+    > "If **I wanted to get ahead**, I had to continue with my studies."
 
     >
 
@@ -454,6 +452,8 @@ sections:
     client5: /assets/img/uploads/santander-logo.png
   section5: ""
 working: "Art Director  "
+living: "Spain "
+author: john_doe
 website: martingraziano.com.ar
 imstagram: martingraziano.design
 footer: |-
