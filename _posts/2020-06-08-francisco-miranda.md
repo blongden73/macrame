@@ -262,8 +262,7 @@ sections:
     > * On Commercial Projects
 
 
-    **Specialization is, in Francisco's view, a trap.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what?
-
+    **Specialization is, in Francisco's view, a trap.** ​After specializing in one area, the true artist, designer or creator would immediately ask, and now what? \
 
     “And that’s basically because we are often encouraged to pay too much attention to someone else's work."
 
