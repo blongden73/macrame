@@ -3,7 +3,7 @@ layout: post
 title: Natalia Elichirigoity • Letter Designer
 name: The Queen of Letters
 subname: in the Land of Serendipity
-logo: <svg version="1.1" id="Layer_1" width="280” height="186.1”
+logo: <svg version="1.1" id="Layer_1" width="216” height="186.1”
   xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 186.1"><path d="M95.2
   78.1h3.5V82h-3.5v-3.9zm0 7.6h3.5v20.1h-3.5V85.7zM103.8 85.6h3.2v2.9c1-1.2 2-2
   3-2.6 1.1-.5 2.3-.8 3.6-.8 2.9 0 4.8 1 5.8 3 .6 1.1.8 2.7.8
