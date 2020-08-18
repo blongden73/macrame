@@ -38,12 +38,12 @@ footer: "# If you would like to **discuss a project or just say hey.**"
 
 ![](/assets/img/uploads/• about-2-800x800.gif)
 
-As a design agency that curates project teams for every new brief, we have constructed a vast network of talents from around the world: designers, art directors, illustrators, copywriters, typeface artists and photographers who really understand projects needs, and bringing their expert skills to the table, every time.
+**As a design agency that curates project teams for every new brief**, we have constructed a vast network of talents from around the world: designers, art directors, illustrators, copywriters, typeface artists and photographers who really understand projects needs, and bringing their expert skills to the table, every time.
 
 **We've invested a lot of time and energy in putting together a close-knit network that knows no time zones.** We’ve done it with care, considering each member’s special set of skills, professionalism and honesty. We give them the same attention we give our clients because they are equally important.  
 
-Nothing pleases us more than putting together the right team to bring a project to life. 
+**Nothing pleases us more than putting together the right team to bring a project to life.** 
 
-We can respond to the specific demands of our clients and find the best solution at a fair price.
+**We can respond to the specific demands of our clients and find the best solution at a fair price.**
 
-Because we are small enough to listen and big enough to deliver.
+**Because we are small enough to listen and big enough to deliver.**
