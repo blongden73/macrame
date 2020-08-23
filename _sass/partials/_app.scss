@@ -124,9 +124,10 @@ nav {
         font-family: $helvetica;
         left: spacing(2);
         font-size: $base-size;
+        position: absolute;
 
         @include mq($from: desktop) {
-          bottom: spacing(2);
+          bottom: spacing(12);
         }
 
         &:hover {
