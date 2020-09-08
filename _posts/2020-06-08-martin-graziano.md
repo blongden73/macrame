@@ -10,8 +10,8 @@ illustration: /assets/img/uploads/• running-800x800.gif
 intro_paragraph: "**Martin Graziano** and a destiny carved in wood."
 sections:
   section: >-
-    A few decades ago, Martin Graziano was born in in Buenos Aires, Argentina.
-    His childhood was similar to that of other children of his day, with one
+    A few decades ago, Martin Graziano was born in Buenos Aires, Argentina. His
+    childhood was similar to that of other children of his day, with one
     exception.
 
 
