@@ -4,7 +4,7 @@ title: Meet 
 subtitle: The Website Knots
 permalink: /credits
 section: credits
-intro_paragraph: As with every project at **Macramé Network**, our website is
+intro_paragraph: As with every project at **Macramè Network**, our website is
   the result of a group of talented people working together.
 footer: |-
   
@@ -19,7 +19,7 @@ footer: |-
 #### **Federico Stöltzing**
 
 Fede is an award-winning executive creative director with over 15 years of experience in the advertising industry.
-Over the course of his career, Fed has worked for some of the world's top agencies and brands, creating engaging stories to connect with different audiences.
+Over the course of his career, Fede has worked for some of the world's top agencies and brands, creating engaging stories to connect with different audiences.
 He currently runs his own creative shop and does consulting work for different brands and agencies.<br/>
 **[stoltzing.me](http://stoltzing.me)**
 
